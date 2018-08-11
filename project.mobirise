@@ -41,7 +41,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#efefef"
+              "background": "#ededed"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -55,7 +55,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#efefef",
+            "color": "#ededed",
             "hamburgerColor": "#cccccc"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> ",
@@ -269,7 +269,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#efefef"
+              "background": "#ededed"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -283,7 +283,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#efefef",
+            "color": "#ededed",
             "hamburgerColor": "#cccccc"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> ",
@@ -467,7 +467,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#efefef",
+            "color": "#ededed",
             "hamburgerColor": "#cccccc"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> ",
@@ -590,7 +590,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#efefef",
+            "color": "#ededed",
             "hamburgerColor": "#cccccc"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> ",
@@ -1334,7 +1334,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#efefef",
+            "color": "#ededed",
             "hamburgerColor": "#cccccc"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> ",
