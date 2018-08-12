@@ -58,10 +58,10 @@
   font-size: 16px;
 }
 #menu-n.mbr-navbar--stuck .mbr-navbar__section {
-  background: #efefef;
+  background: #ededed;
 }
 #menu-n .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #cccccc;
 }
 #menu-1a .mbr-brand__name {
   font-size: 16px;
@@ -82,4 +82,13 @@
 }
 #content5-1d .mbr-article {
   color: #fff;
+}
+#menu-1h .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-1h.mbr-navbar--stuck .mbr-navbar__section {
+  background: #ededed;
+}
+#menu-1h .mbr-navbar__hamburger {
+  color: #cccccc;
 }
