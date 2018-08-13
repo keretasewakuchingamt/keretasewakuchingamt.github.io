@@ -33,7 +33,7 @@
         "title": "Kereta Sewa Kuching",
         "meta_descr": "Kami menyediakan kereta sewa di Kuching Sarawak. Penghantaran ke airport percuma dan harga yang berpatutan. Syukran.",
         "header_custom": "",
-        "footer_custom": "<!-- WhatsHelp.io widget -->\n<script type=\"text/javascript\">\n    (function () {\n        var options = {\n            call: \"+60168981365\", // Call phone number\n            call_to_action: \"Call Us Now for Booking or Enquiries\", // Call to action\n            position: \"right\", // Position may be 'right' or 'left'\n        };\n        var proto = document.location.protocol, host = \"whatshelp.io\", url = proto + \"//static.\" + host;\n        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';\n        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };\n        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\n    })();\n</script>\n<!-- /WhatsHelp.io widget -->\n<!-- WhatsHelp.io widget -->\n<script type=\"text/javascript\">\n    (function () {\n        var options = {\n            whatsapp: \"+60168981365\", // WhatsApp number\n            call_to_action: \"Whatsapp us here\", // Call to action\n            position: \"left\", // Position may be 'right' or 'left'\n        };\n        var proto = document.location.protocol, host = \"whatshelp.io\", url = proto + \"//static.\" + host;\n        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';\n        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };\n        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\n    })();\n</script>\n<!-- /WhatsHelp.io widget -->",
+        "footer_custom": "<!-- WhatsHelp.io widget -->\n<script type=\"text/javascript\">\n    (function () {\n        var options = {\n            call: \"+60168981365\", // Call phone number\n            call_to_action: \"Call Us Now for Booking or Enquiries\", // Call to action\n            position: \"right\", // Position may be 'right' or 'left'\n        };\n        var proto = document.location.protocol, host = \"whatshelp.io\", url = proto + \"//static.\" + host;\n        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';\n        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };\n        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\n    })();\n</script>\n\n<script type=\"text/javascript\">\n    (function () {\n        var options = {\n            whatsapp: \"+60168981365\", // WhatsApp number\n            call_to_action: \"Whatsapp us here\", // Call to action\n            position: \"left\", // Position may be 'right' or 'left'\n        };\n        var proto = document.location.protocol, host = \"whatshelp.io\", url = proto + \"//static.\" + host;\n        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';\n        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };\n        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\n    })();\n</script>\n<!-- /WhatsHelp.io widget -->",
         "html_before": ""
       },
       "components": [
@@ -60,7 +60,7 @@
             "color": "#ededed",
             "hamburgerColor": "#cccccc"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">CONTACT US</a></li> ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">CARLIST</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERM AND CONDITION</a></li> ",
           "logo": {
             "image": {
@@ -948,7 +948,7 @@
             "color": "#ededed",
             "hamburgerColor": "#cccccc"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">CONTACT US</a></li> ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">CARLIST</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERM AND CONDITION</a></li> ",
           "logo": {
             "image": {
@@ -1132,7 +1132,7 @@
             "color": "#ededed",
             "hamburgerColor": "#cccccc"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">CONTACT US</a></li> ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">CARLIST</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERM AND CONDITION</a></li> ",
           "logo": {
             "image": {
@@ -1255,7 +1255,7 @@
             "color": "#ededed",
             "hamburgerColor": "#cccccc"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">CONTACT US</a></li> ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">CARLIST</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERM AND CONDITION</a></li> ",
           "logo": {
             "image": {
@@ -1316,7 +1316,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/perodua-viva-576x32480.jpg",
+              "src": "@PROJECT_PATH@/assets/images/perodua-viva-576x32496.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1339,7 +1339,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/myvi2-480x48081.png",
+              "src": "@PROJECT_PATH@/assets/images/myvi2-480x48097.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1362,7 +1362,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/perodua-bezza-white-front-left-malaysia-600x40082.jpg",
+              "src": "@PROJECT_PATH@/assets/images/perodua-bezza-white-front-left-malaysia-600x40098.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1385,7 +1385,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mpv-perodua-alza-auto-7-seat-1509386752-5b2e53ba0-600x60083.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mpv-perodua-alza-auto-7-seat-1509386752-5b2e53ba0-600x60099.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1481,7 +1481,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/saga-480x48084.jpg",
+              "src": "@PROJECT_PATH@/assets/images/saga-480x480100.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1504,7 +1504,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/blogfarhanyusof-proton-exora-450x30085.jpg",
+              "src": "@PROJECT_PATH@/assets/images/blogfarhanyusof-proton-exora-450x300101.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1527,7 +1527,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vios-600x27686.png",
+              "src": "@PROJECT_PATH@/assets/images/vios-600x276102.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1550,7 +1550,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2011-toyota-camry-xle-v6-6-speed-at-sedan-angular-front-600x39887.png",
+              "src": "@PROJECT_PATH@/assets/images/2011-toyota-camry-xle-v6-6-speed-at-sedan-angular-front-600x398103.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1646,7 +1646,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/avanza11-600x27688.jpg",
+              "src": "@PROJECT_PATH@/assets/images/avanza11-600x276104.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1669,7 +1669,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/innova-480x48089.jpg",
+              "src": "@PROJECT_PATH@/assets/images/innova-480x480105.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1692,7 +1692,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-600x34890.jpg",
+              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-600x348106.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1715,7 +1715,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mitsubishi-l200-iv-restyling-2013-2015-pickup-interior-3-560x29091.png",
+              "src": "@PROJECT_PATH@/assets/images/mitsubishi-l200-iv-restyling-2013-2015-pickup-interior-3-560x290107.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1811,7 +1811,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vellfire-600x30092.jpg",
+              "src": "@PROJECT_PATH@/assets/images/vellfire-600x300108.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1834,7 +1834,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2015-mitsubishi-lancer-evo-x-final-concept-600x40093.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2015-mitsubishi-lancer-evo-x-final-concept-600x400109.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1857,7 +1857,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/alphard-600x30094.jpg",
+              "src": "@PROJECT_PATH@/assets/images/alphard-600x300110.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1880,7 +1880,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2015-honda-civic-si-sedan-si-with-navi-crystal-black-pearl-550x45095.png",
+              "src": "@PROJECT_PATH@/assets/images/2015-honda-civic-si-sedan-si-with-navi-crystal-black-pearl-550x450111.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1999,7 +1999,7 @@
             "color": "#ededed",
             "hamburgerColor": "#cccccc"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">CONTACT US</a></li> ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">CARLIST</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERM AND CONDITION</a></li> ",
           "logo": {
             "image": {
@@ -2147,7 +2147,7 @@
             "color": "#ededed",
             "hamburgerColor": "#cccccc"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">CONTACT US</a></li> ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">CARLIST</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERM AND CONDITION</a></li> ",
           "logo": {
             "image": {
