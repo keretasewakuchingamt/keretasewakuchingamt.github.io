@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AMT MAIN SITE-Landing page improve",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.2",
-    "uniqCompNum": 78,
+    "uniqCompNum": 80,
     "versionPublish": "4.7.2",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -28,8 +28,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Kereta Sewa Kuching",
-        "meta_descr": "Kami menyediakan kereta sewa di Kuching Sarawak. Penghantaran ke airport percuma dan harga yang berpatutan. Syukran.",
+        "title": "Kuching Car Rental",
+        "meta_descr": "We provide car, van and buses rental in Kuching Sarawak. Book with us today fast and easy. Make sure you plan your visit well and let us handle your transport. Thank you and welcome.",
         "header_custom": "",
         "footer_custom": "<!-- WhatsHelp.io widget -->\n<script type=\"text/javascript\">\n    (function () {\n        var options = {\n            whatsapp: \"+60148630141\", // WhatsApp number\n            call_to_action: \"Whatsapp us here\", // Call to action\n            position: \"left\", // Position may be 'right' or 'left'\n        };\n        var proto = document.location.protocol, host = \"whatshelp.io\", url = proto + \"//static.\" + host;\n        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';\n        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };\n        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\n    })();\n</script>\n<!-- /WhatsHelp.io widget -->\n<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b04a9f5d0f6723da57ec812/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->",
         "html_before": ""
@@ -58,7 +58,7 @@
             "color": "#ededed",
             "hamburgerColor": "#cccccc"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME MAIN PAGE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT US</a></li> ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>CARLIST</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERM AND CONDITION</a></li> ",
           "logo": {
             "image": {
@@ -109,8 +109,8 @@
             "overlayColor": "#cccccc",
             "overlayOpacity": "0.6"
           },
-          "title": "TRAVELLING TO KUCHING, SARAWAK<br>It is so easy to book.",
-          "text": "WE ARE YOUR TRANSPORTATION PARTNER HERE IN SARAWAK<br>(CAR RENTAL)<br>(CAR RENTAL+profesional friendly DRIVER)<br>(HOLIDAY TOUR PACKAGE)<br><b>Free Car </b>Delivery to Kuching Airport, Terminal Bus and Hotel!",
+          "title": "TRAVELLING TO KUCHIN<br>G, SARAWAK<br>It is so easy to book.",
+          "text": "WE ARE YOUR TRANSPORTATION PARTNER HERE IN SARAWAK<br>We Provide Cars, Van, and Buses Rental in Kuching Sarawak.<br>We can also supply Drivers/Bodyguards for your Need.<br>We also provide (HOLIDAY TOUR PACKAGE) around Kuching area.<br><b>Free Car </b>Delivery to Kuching Airport, Terminal Bus and Hotel!",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>CAR RENTAL LIST</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"https://form.jotform.me/82231969083462\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>ONLINE BOOKING FORM</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Keretasewa\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>BOOKING WITH WHATSAPP</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"tel:+60148630141\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>DIRECT CALL BOOKING</a>   ",
           "_tags": [
             "Theme"
@@ -123,7 +123,8 @@
             "P": {
               "color": "#2c2c2c",
               "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "text-align": "center"
             },
             "H1": {
               "color": "#2c2c2c"
@@ -158,8 +159,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Tempat-tempat Menarik di Kuching",
-          "text": "Jangan lepaskan peluang anda untuk pergi ke tempat-tempat menarik ini di Kuching Sarawak.",
+          "title": "INTERESTING PLACE IN KUCHING",
+          "text": "Dont miss your chance to visit these marvellous place in Kuching, Sarawak",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://form.jotform.me/82231969083462\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BOOK WITH US NOW</a>",
           "_tags": [
             "Theme"
@@ -182,7 +183,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/bako-natoinal-park-610x407-610x407.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Taman Negara Bako",
+                "caption": "Bako National Park",
                 "active": false
               },
               {
@@ -190,7 +191,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/hutan-simpan-semenggoh-610x452-610x452.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Hutan Simpan Semenggoh",
+                "caption": "Semenggoh Wild Forest",
                 "active": false
               },
               {
@@ -206,7 +207,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/pantai-damai-sarawak-610x405-610x405.jpg",
                 "alt": "",
                 "title": "",
-                "caption": " Pantai Damai",
+                "caption": " Damai Beach",
                 "active": false
               },
               {
@@ -214,7 +215,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/jong-crocodile-farm-610x407-610x407.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Taman Buaya Jong",
+                "caption": "Jong Crocodile Farm",
                 "active": false
               },
               {
@@ -230,7 +231,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/sarawak-cultural-village-610x407-610x407.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Pasar Serikin",
+                "caption": "Sarawak Cultural Village",
                 "active": false
               },
               {
@@ -238,7 +239,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/pasar-serikin-610x343-610x343.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Taman Budaya Sarawak",
+                "caption": "Border Serikin Market Place",
                 "active": true
               }
             ]
@@ -911,6 +912,14 @@
           "_anchor": "features1-1n"
         },
         {
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">BACK TO MAIN PAGE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://form.jotform.me/82231969083462\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ONLINE BOOKING FORM</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Kereta%20Sewa\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WHATSAPP US TODAY</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-26"
+        },
+        {
           "_params": {
             "showTitle": true,
             "paddingTop": "1",
@@ -959,7 +968,7 @@
           "_name": "form1",
           "_anchor": "form1-1o",
           "_customCSS": "",
-          "_customHTML": "<section class=\"mbr-section mbr-section--relative mbr-section--fixed-size\" data-rv-view=\"519\" style=\"background-color: rgb(193, 193, 193);\">\n    \n    <div class=\"mbr-section__container mbr-section__container--std-padding container\" style=\"padding-top: 31px; padding-bottom: 31px;\">\n        <div class=\"row\">\n            <div class=\"col-sm-12\">\n                <div class=\"row\">\n                    <div class=\"col-sm-8 col-sm-offset-2\" data-form-type=\"formoid\">\n                        <div class=\"mbr-header mbr-header--center mbr-header--std-padding\">\n                            <h2 class=\"mbr-header__text mbr-editable-content\">CONTACT FORM</h2>\n                        </div>\n                        <div data-form-alert=\"true\">\n                            <div class=\"hide\" data-form-alert-success=\"true\">Thanks for filling out form!</div>\n                        </div>\n                        <form action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"CONTACT FORM\">\n                            <input type=\"hidden\" value=\"oEJvcTCDm4tXBE8n9Sx4NJ935p21qYhGWScavCG6BZtKGPf/FLGdBRC+xiYBh16e6QpwH6wenTRDIp/LBuuSSDFUfpB2ZTjjuUNISwkpOKGMyx1kQlcdJjsF08NNWdZ/\" data-form-email=\"true\">\n                            <div class=\"form-group\">\n                                <input type=\"text\" class=\"form-control\" name=\"name\" required=\"\" placeholder=\"Name*\" data-form-field=\"Name\">\n                            </div>\n                            <div class=\"form-group\">\n                                <input type=\"email\" class=\"form-control\" name=\"email\" required=\"\" placeholder=\"Email*\" data-form-field=\"Email\">\n                            </div>\n                            <div class=\"form-group\">\n                                <input type=\"tel\" class=\"form-control\" name=\"phone\" placeholder=\"Phone\" data-form-field=\"Phone\">\n                            </div>\n                            <div class=\"form-group\">\n                                <textarea class=\"form-control\" name=\"message\" rows=\"7\" placeholder=\"Please put 1) car type and 2)date required. We will get to you soon.\" data-form-field=\"Message\"></textarea>\n                            </div>\n                            <div class=\"mbr-buttons mbr-buttons--right\"><button type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger mbr-editable-button\">CONTACT US</button></div>\n                        </form>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section--relative mbr-section--fixed-size\" data-rv-view=\"519\" style=\"background-color: rgb(193, 193, 193);\">\n    \n    <div class=\"mbr-section__container mbr-section__container--std-padding container\" style=\"padding-top: 31px; padding-bottom: 31px;\">\n        <div class=\"row\">\n            <div class=\"col-sm-12\">\n                <div class=\"row\">\n                    <div class=\"col-sm-8 col-sm-offset-2\" data-form-type=\"formoid\">\n                        <div class=\"mbr-header mbr-header--center mbr-header--std-padding\">\n                            <h2 class=\"mbr-header__text mbr-editable-content\" code-editable-id=\"18\">CONTACT FORM</h2>\n                        </div>\n                        <div data-form-alert=\"true\">\n                            <div class=\"hide\" data-form-alert-success=\"true\">Thanks for filling out form!</div>\n                        </div>\n                        <form action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"CONTACT FORM\">\n                            <input type=\"hidden\" value=\"oEJvcTCDm4tXBE8n9Sx4NJ935p21qYhGWScavCG6BZtKGPf/FLGdBRC+xiYBh16e6QpwH6wenTRDIp/LBuuSSDFUfpB2ZTjjuUNISwkpOKGMyx1kQlcdJjsF08NNWdZ/\" data-form-email=\"true\">\n                            <div class=\"form-group\">\n                                <input type=\"text\" class=\"form-control\" name=\"name\" required=\"\" placeholder=\"Name*\" data-form-field=\"Name\">\n                            </div>\n                            <div class=\"form-group\">\n                                <input type=\"email\" class=\"form-control\" name=\"email\" required=\"\" placeholder=\"Email*\" data-form-field=\"Email\">\n                            </div>\n                            <div class=\"form-group\">\n                                <input type=\"tel\" class=\"form-control\" name=\"phone\" placeholder=\"Phone\" data-form-field=\"Phone\">\n                            </div>\n                            <div class=\"form-group\">\n                                <textarea class=\"form-control\" name=\"message\" rows=\"7\" placeholder=\"Please tell us what you need here. Dont hesitate to ask and we will get back to you soon :).\" data-form-field=\"Message\"></textarea>\n                            </div>\n                            <div class=\"mbr-buttons mbr-buttons--right\"><button type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger mbr-editable-button\" code-editable-id=\"19\">CONTACT US</button></div>\n                        </form>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true
@@ -1042,8 +1051,8 @@
     },
     "page1.html": {
       "settings": {
-        "meta_descr": "Kami menyediakan kereta sewa di Kuching Sarawak. Penghantaran ke airport percuma dan harga yang berpatutan. Syukran.",
-        "title": "ABOUT",
+        "meta_descr": "We provide car, van and buses rental in Kuching Sarawak. Book with us today fast and easy. Make sure you plan your visit well and let us handle your transport. Thank you and welcome.",
+        "title": "ABOUT AMT",
         "order": 6,
         "footer_custom": "<!-- WhatsHelp.io widget -->\n<script type=\"text/javascript\">\n    (function () {\n        var options = {\n            whatsapp: \"+60148630141\", // WhatsApp number\n            call_to_action: \"Whatsapp us here\", // Call to action\n            position: \"left\", // Position may be 'right' or 'left'\n        };\n        var proto = document.location.protocol, host = \"whatshelp.io\", url = proto + \"//static.\" + host;\n        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';\n        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };\n        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\n    })();\n</script>\n<!-- /WhatsHelp.io widget -->\n<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b04a9f5d0f6723da57ec812/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->"
       },
@@ -1071,7 +1080,7 @@
             "color": "#ededed",
             "hamburgerColor": "#cccccc"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME MAIN PAGE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT US</a></li> ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>CARLIST</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERM AND CONDITION</a></li> ",
           "logo": {
             "image": {
@@ -1226,8 +1235,8 @@
     },
     "page2.html": {
       "settings": {
-        "meta_descr": "Kami menyediakan kereta sewa di Kuching Sarawak. Penghantaran ke airport percuma dan harga yang berpatutan. Syukran.",
-        "title": "CONTACT",
+        "meta_descr": "We provide car, van and buses rental in Kuching Sarawak. Book with us today fast and easy. Make sure you plan your visit well and let us handle your transport. Thank you and welcome.",
+        "title": "CONTACT AMT",
         "order": 5,
         "footer_custom": "<!-- WhatsHelp.io widget -->\n<script type=\"text/javascript\">\n    (function () {\n        var options = {\n            whatsapp: \"+60148630141\", // WhatsApp number\n            call_to_action: \"Whatsapp us here\", // Call to action\n            position: \"left\", // Position may be 'right' or 'left'\n        };\n        var proto = document.location.protocol, host = \"whatshelp.io\", url = proto + \"//static.\" + host;\n        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';\n        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };\n        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\n    })();\n</script>\n<!-- /WhatsHelp.io widget -->\n<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b04a9f5d0f6723da57ec812/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->"
       },
@@ -1255,7 +1264,7 @@
             "color": "#ededed",
             "hamburgerColor": "#cccccc"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME MAIN PAGE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT US</a></li> ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>CARLIST</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERM AND CONDITION</a></li> ",
           "logo": {
             "image": {
@@ -1349,8 +1358,8 @@
     },
     "page3.html": {
       "settings": {
-        "meta_descr": "Kami menyediakan kereta sewa di Kuching Sarawak. Penghantaran ke airport percuma dan harga yang berpatutan. Syukran.",
-        "title": "CAR LIST",
+        "meta_descr": "We provide car, van and buses rental in Kuching Sarawak. Book with us today fast and easy. Make sure you plan your visit well and let us handle your transport. Thank you and welcome.",
+        "title": "AMT CAR LIST",
         "order": 4,
         "footer_custom": "<!-- WhatsHelp.io widget -->\n<script type=\"text/javascript\">\n    (function () {\n        var options = {\n            whatsapp: \"+60148630141\", // WhatsApp number\n            call_to_action: \"Whatsapp us here\", // Call to action\n            position: \"left\", // Position may be 'right' or 'left'\n        };\n        var proto = document.location.protocol, host = \"whatshelp.io\", url = proto + \"//static.\" + host;\n        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';\n        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };\n        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\n    })();\n</script>\n<!-- /WhatsHelp.io widget -->\n<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b04a9f5d0f6723da57ec812/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->"
       },
@@ -1378,7 +1387,7 @@
             "color": "#ededed",
             "hamburgerColor": "#cccccc"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME MAIN PAGE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT US</a></li> ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>CARLIST</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERM AND CONDITION</a></li> ",
           "logo": {
             "image": {
@@ -1439,7 +1448,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/perodua-viva-576x32464.jpg",
+              "src": "@PROJECT_PATH@/assets/images/perodua-viva-576x3240.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1462,7 +1471,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/myvi2-480x48065.png",
+              "src": "@PROJECT_PATH@/assets/images/myvi2-480x4801.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1485,7 +1494,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/perodua-bezza-white-front-left-malaysia-600x40066.jpg",
+              "src": "@PROJECT_PATH@/assets/images/perodua-bezza-white-front-left-malaysia-600x4002.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1508,7 +1517,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mpv-perodua-alza-auto-7-seat-1509386752-5b2e53ba0-600x60067.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mpv-perodua-alza-auto-7-seat-1509386752-5b2e53ba0-600x6003.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1604,7 +1613,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/saga-480x48068.jpg",
+              "src": "@PROJECT_PATH@/assets/images/saga-480x4804.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1627,7 +1636,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/blogfarhanyusof-proton-exora-450x30069.jpg",
+              "src": "@PROJECT_PATH@/assets/images/blogfarhanyusof-proton-exora-450x3005.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1650,7 +1659,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vios-600x27670.png",
+              "src": "@PROJECT_PATH@/assets/images/vios-600x2766.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1673,7 +1682,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2011-toyota-camry-xle-v6-6-speed-at-sedan-angular-front-600x39871.png",
+              "src": "@PROJECT_PATH@/assets/images/2011-toyota-camry-xle-v6-6-speed-at-sedan-angular-front-600x3987.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1769,7 +1778,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/avanza11-600x27672.jpg",
+              "src": "@PROJECT_PATH@/assets/images/avanza11-600x2768.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1792,7 +1801,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/innova-480x48073.jpg",
+              "src": "@PROJECT_PATH@/assets/images/innova-480x4809.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1815,7 +1824,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-600x34874.jpg",
+              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-600x34810.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1838,7 +1847,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mitsubishi-l200-iv-restyling-2013-2015-pickup-interior-3-560x29075.png",
+              "src": "@PROJECT_PATH@/assets/images/mitsubishi-l200-iv-restyling-2013-2015-pickup-interior-3-560x29011.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1934,7 +1943,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vellfire-600x30076.jpg",
+              "src": "@PROJECT_PATH@/assets/images/vellfire-600x30012.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1957,7 +1966,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2015-mitsubishi-lancer-evo-x-final-concept-600x40077.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2015-mitsubishi-lancer-evo-x-final-concept-600x40013.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1980,7 +1989,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/alphard-600x30078.jpg",
+              "src": "@PROJECT_PATH@/assets/images/alphard-600x30014.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2003,7 +2012,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2015-honda-civic-si-sedan-si-with-navi-crystal-black-pearl-550x45079.png",
+              "src": "@PROJECT_PATH@/assets/images/2015-honda-civic-si-sedan-si-with-navi-crystal-black-pearl-550x45015.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2070,6 +2079,14 @@
           "_anchor": "features1-1g"
         },
         {
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">BACK TO MAIN PAGE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://form.jotform.me/82231969083462\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ONLINE BOOKING FORM</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Kereta%20Sewa\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WHATSAPP US TODAY</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-27"
+        },
+        {
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -2094,9 +2111,10 @@
     },
     "page6.html": {
       "settings": {
-        "meta_descr": "Kami menyediakan kereta sewa di Kuching Sarawak. Penghantaran ke airport percuma dan harga yang berpatutan. Syukran.",
-        "title": "term and condition",
-        "order": 3
+        "meta_descr": "We provide car, van and buses rental in Kuching Sarawak. Book with us today fast and easy. Make sure you plan your visit well and let us handle your transport. Thank you and welcome.",
+        "title": "Term and Condition",
+        "order": 3,
+        "footer_custom": "<!-- WhatsHelp.io widget -->\n<script type=\"text/javascript\">\n    (function () {\n        var options = {\n            whatsapp: \"+60148630141\", // WhatsApp number\n            call_to_action: \"Whatsapp us here\", // Call to action\n            position: \"left\", // Position may be 'right' or 'left'\n        };\n        var proto = document.location.protocol, host = \"whatshelp.io\", url = proto + \"//static.\" + host;\n        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';\n        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };\n        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\n    })();\n</script>\n<!-- /WhatsHelp.io widget -->\n<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b04a9f5d0f6723da57ec812/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->"
       },
       "components": [
         {
@@ -2122,7 +2140,7 @@
             "color": "#ededed",
             "hamburgerColor": "#cccccc"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME MAIN PAGE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT US</a></li> ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>CARLIST</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERM AND CONDITION</a></li> ",
           "logo": {
             "image": {
@@ -2237,155 +2255,6 @@
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-1b"
-        }
-      ]
-    },
-    "page5.html": {
-      "settings": {
-        "meta_descr": "Kami menyediakan kereta sewa di Kuching Sarawak. Penghantaran ke airport percuma dan harga yang berpatutan. Syukran.",
-        "title": "Booking Form",
-        "order": 2
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#ededed"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#cccccc"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": true,
-            "color": "#ededed",
-            "hamburgerColor": "#cccccc"
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>CARLIST</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERM AND CONDITION</a></li> ",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/c4-588734aa6a22dheader.png-130x128.jpg",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "mobirise",
-              "family": "MobiriseIcons",
-              "link": "#top",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AFDAL MAJU TRANSPORTATION (AMT)</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-1h"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "BOOKING FORM",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">CONTACT US</a>",
-          "form": {
-            "action": "afdalhaziqms@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_anchor": "form1-1j"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/13221164-1010315769036164-4635766494822955108-o-265x208.jpg",
-              "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "text1": "<strong>ADDRESS</strong><br>Lot 114 Lorong 22MB2B<br>Desa Ilmu Phase 25,<br>Kota Samarahan, Sarawak",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: afdalmaju@mail.com<br>\nPhone: <a href=\"tel:+60148630141\">+6 (014) 8630141</a><br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Facebook Page :<a href=\"https://www.facebook.com/AMTsarawak\" target=\"_blank\">Kereta Sewa AMT</a></li><li>Instagram: <a href=\"https://www.instagram.com/afdalmajutransportation\" target=\"_blank\">afdalmajutransportation</a></li><li>Whatsapp : <a href=\"tel:+60148630141\">+6 (014 )8630141</a></li><li>Full Website: <a href=\"http://www.afdalmajutransportation.com/\">afdalmajutransportation.com</a></li></ul>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-1i"
         }
       ]
     }
