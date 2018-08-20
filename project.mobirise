@@ -1444,7 +1444,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/perodua-viva-576x32416.jpg",
+              "src": "@PROJECT_PATH@/assets/images/perodua-viva-576x32432.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1467,7 +1467,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/myvi2-480x48017.png",
+              "src": "@PROJECT_PATH@/assets/images/myvi2-480x48033.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1490,7 +1490,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/perodua-bezza-white-front-left-malaysia-600x40018.jpg",
+              "src": "@PROJECT_PATH@/assets/images/perodua-bezza-white-front-left-malaysia-600x40034.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1513,7 +1513,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mpv-perodua-alza-auto-7-seat-1509386752-5b2e53ba0-600x60019.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mpv-perodua-alza-auto-7-seat-1509386752-5b2e53ba0-600x60035.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1609,7 +1609,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/saga-480x48020.jpg",
+              "src": "@PROJECT_PATH@/assets/images/saga-480x48036.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1632,7 +1632,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/blogfarhanyusof-proton-exora-450x30021.jpg",
+              "src": "@PROJECT_PATH@/assets/images/blogfarhanyusof-proton-exora-450x30037.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1655,7 +1655,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vios-600x27622.png",
+              "src": "@PROJECT_PATH@/assets/images/vios-600x27638.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1678,7 +1678,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2011-toyota-camry-xle-v6-6-speed-at-sedan-angular-front-600x39823.png",
+              "src": "@PROJECT_PATH@/assets/images/2011-toyota-camry-xle-v6-6-speed-at-sedan-angular-front-600x39839.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1774,7 +1774,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/avanza11-600x27624.jpg",
+              "src": "@PROJECT_PATH@/assets/images/avanza11-600x27640.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1797,7 +1797,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/innova-480x48025.jpg",
+              "src": "@PROJECT_PATH@/assets/images/innova-480x48041.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1820,7 +1820,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-600x34826.jpg",
+              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-600x34842.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1843,7 +1843,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mitsubishi-l200-iv-restyling-2013-2015-pickup-interior-3-560x29027.png",
+              "src": "@PROJECT_PATH@/assets/images/mitsubishi-l200-iv-restyling-2013-2015-pickup-interior-3-560x29043.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1939,7 +1939,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vellfire-600x30028.jpg",
+              "src": "@PROJECT_PATH@/assets/images/vellfire-600x30044.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1962,7 +1962,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2015-mitsubishi-lancer-evo-x-final-concept-600x40029.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2015-mitsubishi-lancer-evo-x-final-concept-600x40045.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1985,7 +1985,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/alphard-600x30030.jpg",
+              "src": "@PROJECT_PATH@/assets/images/alphard-600x30046.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2008,7 +2008,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2015-honda-civic-si-sedan-si-with-navi-crystal-black-pearl-550x45031.png",
+              "src": "@PROJECT_PATH@/assets/images/2015-honda-civic-si-sedan-si-with-navi-crystal-black-pearl-550x45047.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
