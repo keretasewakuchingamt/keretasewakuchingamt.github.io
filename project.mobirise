@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AMT MAIN SITE-Bahasa Melayu",
-    "currentPage": "index.html",
+    "currentPage": "HOME.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -21,1348 +21,15 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "gdpr": "",
-    "siteUrl": "",
+    "siteUrl": "https://kuchingcarrental.github.io/page3.html",
     "sitemapSwitcherAuto": "on",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
-    "siteFonts": []
+    "siteFonts": [],
+    "sitemapSwitcher": "on"
   },
   "pages": {
-    "index.html": {
-      "settings": {
-        "main": true,
-        "title": "Kereta Sewa Kuching",
-        "meta_descr": "Kami menyediakan kereta sewa di Kuching Sarawak. Penghantaran ke airport percuma dan harga yang berpatutan. Syukran.",
-        "header_custom": "",
-        "footer_custom": "<!-- WhatsHelp.io widget -->\n<script type=\"text/javascript\">\n    (function () {\n        var options = {\n            whatsapp: \"+60148630141\", // WhatsApp number\n            call_to_action: \"Whatsapp Kami Sini Haa\", // Call to action\n            position: \"left\", // Position may be 'right' or 'left'\n        };\n        var proto = document.location.protocol, host = \"whatshelp.io\", url = proto + \"//static.\" + host;\n        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';\n        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };\n        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\n    })();\n</script>\n<!-- /WhatsHelp.io widget -->\n<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b04a9f5d0f6723da57ec812/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->",
-        "html_before": ""
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#ededed"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#cccccc"
-            },
-            ".mbr-brand__name a": {
-              "font-size": "14px"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": true,
-            "color": "#ededed",
-            "hamburgerColor": "#cccccc"
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">LAMAN UTAMA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">SIAPA KAMI</a></li> ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>LIST KERETA</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERMA DAN SYARAT</a></li> ",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/c4-588734aa6a22dheader.png-130x128.jpg",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "mobirise",
-              "family": "MobiriseIcons",
-              "link": "#top",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AFDAL MAJU TRANSPORTATION PHONE:+60148630141<br><br></a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-0"
-        },
-        {
-          "_inherit": "header1",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/sarawak-9-1600x1200.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#4c6972",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#cccccc",
-            "overlayOpacity": "0.6"
-          },
-          "title": "SELAMAT DATANG KE KUCHING&nbsp;<br>Perkhidmatan Sewa Kenderaan. Kereta, Van dan Bus di Sarawak.",
-          "text": "KAMI ADALAH PILIHAN TERBAIK ANDA DI KUCHING, SARAWAK<br>ANTARA PERKHIDMATAN KAMI<br><i><a href=\"page3.html\" target=\"_blank\">(<b>KERETA SEWA PANDU SENDIRI)</b></a><b>&nbsp;</b><a href=\"page3.html\">(KERETA SEWA DENGAN PEMANDU PERIBADI</a>)<br>(PAKEJ PERLANCONGAN) <a href=\"page3.html#features1-2b\">(VAN DAN BUS SEWA/CATAR)</a></i><br><b>PERCUMA! </b>Penghantaran ke Airport Kuching , Terminal Bus and Hotel!",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>LIST KENDERAAN SEWA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"https://form.jotform.me/82231969083462\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Keretasewa\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>WHATSAPP KAMI&nbsp;</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"tel:+60148630141\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CALL KAMI</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"https://kuchingcarrental.github.io/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ENGLISH SITE</a>   ",
-          "_tags": [
-            "Theme"
-          ],
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header4",
-          "_anchor": "header4-4",
-          "_customCSS": "",
-          "_styles": {
-            "P": {
-              "color": "#2c2c2c",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            "H1": {
-              "color": "#2c2c2c"
-            }
-          }
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "paddingTop": 2,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#3C3C3C",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Tempat-tempat Menarik di Kuching",
-          "text": "Jangan lepaskan peluang anda untuk pergi ke tempat-tempat menarik ini di Kuching Sarawak.",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://form.jotform.me/82231969083462\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>TEMPAH SEKARANG</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-25"
-        },
-        {
-          "_params": {
-            "fullWidth": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "noGutter": true,
-            "showText": true,
-            "showBullets": true,
-            "bgColor": "#4c6972",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/bako-natoinal-park-610x407.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bako-natoinal-park-610x407-610x407.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Taman Negara Bako",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/hutan-simpan-semenggoh-610x452.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/hutan-simpan-semenggoh-610x452-610x452.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Hutan Simpan Semenggoh",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/fairy-cave-bau-610x405.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fairy-cave-bau-610x405-610x405.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Fairy Cave &amp; Wind Cave",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/pantai-damai-sarawak-610x405.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/pantai-damai-sarawak-610x405-610x405.jpg",
-                "alt": "",
-                "title": "",
-                "caption": " Pantai Damai yang indah",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/jong-crocodile-farm-610x407.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jong-crocodile-farm-610x407-610x407.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Taman Buaya Jong",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/rumah-panjang-ann-rais-610x419.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rumah-panjang-ann-rais-610x419-610x419.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Rumah Panjang Annah Rais Bidayuh",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/sarawak-cultural-village-610x407.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sarawak-cultural-village-610x407-610x407.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Taman Budaya Sarawak",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/pasar-serikin-610x343.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/pasar-serikin-610x343-610x343.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Pasar Serikin",
-                "active": true
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-24"
-        },
-        {
-          "_params": {
-            "showHeader": true,
-            "showSubheader": true,
-            "showImages": true,
-            "showTitles": true,
-            "showCaptions": true,
-            "showButtons": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "headerAlign": "left",
-          "header": "PILIH MESIN PILIHAN ANDA SEKARANG",
-          "subheader": "\"Your Tranportation Solution in Kuching, Sarawak, Malaysia",
-          "media1": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/perodua-viva-576x324.jpg",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title1": "PERODUA VIVA",
-          "caption1": "<p>HARGA SEHARI:</p><p>Automatic Transmission RM100</p>Manual Transmission RM90<br><br>Maximum Passenger: 5",
-          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Perodua%20Viva%20(AUTO/MANUAL).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP<br></a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE<br></a>",
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/myvi2-480x480.png",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title2": "PERODUA MYVI",
-          "caption2": "Automatic Transmission RM120<br>Maximum Passenger: 5<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Perodua%20Myvi%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/perodua-bezza-white-front-left-malaysia-600x400.jpg",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title3": "PERODUA BEZZA",
-          "caption3": "Automatic Transmission RM140<br>Maximum Passenger: 5<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Perodua%20Bezza%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mpv-perodua-alza-auto-7-seat-1509386752-5b2e53ba0-600x600.jpg",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title4": "PERODUA ALZA",
-          "caption4": "Automatic Transmission RM180<br>Maximum Passenger: 7<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Perodua%20Alza%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
-          "media5": {
-            "image": {
-              "active": true,
-              "src": "images/blocks.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title5": "TRENDY WEBSITE BLOCKS",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media6": {
-            "image": {
-              "active": true,
-              "src": "images/host.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_anchor": "features1-1k"
-        },
-        {
-          "_params": {
-            "showHeader": false,
-            "showSubheader": false,
-            "showImages": true,
-            "showTitles": true,
-            "showCaptions": true,
-            "showButtons": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "headerAlign": "left",
-          "header": "DROP-DEAD EASY WEBSITE MAKER",
-          "subheader": "By John Smith posted July 30, 2015",
-          "media1": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/saga-480x480.jpg",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title1": "PROTON SAGA",
-          "caption1": "Automatic Transmission RM120<br>Maximum Passenger: 5<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Proton%20Saga%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/blogfarhanyusof-proton-exora-450x300.jpg",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title2": "PROTON EXORA",
-          "caption2": "Automatic Transmission RM190<br>Maximum Passenger: 7/8<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Proton%20Exora%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vios-600x276.png",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title3": "TOYOYA VIOS",
-          "caption3": "Automatic Transmission RM190<br>Maximum Passenger: 5<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Vios%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2011-toyota-camry-xle-v6-6-speed-at-sedan-angular-front-600x398.png",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title4": "TOYOTA CAMRY",
-          "caption4": "Automatic Transmission RM600<br>Maximum Passenger: 5<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Camry%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
-          "media5": {
-            "image": {
-              "active": true,
-              "src": "images/blocks.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title5": "TRENDY WEBSITE BLOCKS",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media6": {
-            "image": {
-              "active": true,
-              "src": "images/host.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_anchor": "features1-1l"
-        },
-        {
-          "_params": {
-            "showHeader": false,
-            "showSubheader": false,
-            "showImages": true,
-            "showTitles": true,
-            "showCaptions": true,
-            "showButtons": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "headerAlign": "left",
-          "header": "DROP-DEAD EASY WEBSITE MAKER",
-          "subheader": "By John Smith posted July 30, 2015",
-          "media1": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/avanza11-600x276.jpg",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title1": "TOYOTA AVANZA",
-          "caption1": "Automatic Transmission RM200<br>Maximum Passenger: 7<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Avanza%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/innova-480x480.jpg",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title2": "TOYOTA INNOVA",
-          "caption2": "Automatic Transmission RM250<br>Maximum Passenger: 7/8<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Innova%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-600x348.jpg",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title3": "TOYOTA VAN HIACE",
-          "caption3": "Automatic Transmission RM270<br>Maximum Passenger: 11<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Hiace%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mitsubishi-l200-iv-restyling-2013-2015-pickup-interior-3-560x290.png",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title4": "4X4 MITSUBISHI TRITON",
-          "caption4": "Automatic Transmission RM400<br>Maximum Passenger: 5<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Mitsubishi%20Triton%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
-          "media5": {
-            "image": {
-              "active": true,
-              "src": "images/blocks.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title5": "TRENDY WEBSITE BLOCKS",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media6": {
-            "image": {
-              "active": true,
-              "src": "images/host.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_anchor": "features1-1m"
-        },
-        {
-          "_params": {
-            "showHeader": false,
-            "showSubheader": false,
-            "showImages": true,
-            "showTitles": true,
-            "showCaptions": true,
-            "showButtons": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "headerAlign": "left",
-          "header": "DROP-DEAD EASY WEBSITE MAKER",
-          "subheader": "By John Smith posted July 30, 2015",
-          "media1": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vellfire-600x300.jpg",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title1": "TOYOTA VELLFIRE",
-          "caption1": "Automatic Transmission RM800<br>Maximum Passenger: 7<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Vellfire%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2015-mitsubishi-lancer-evo-x-final-concept-600x400.jpg",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title2": "MITSUBISHI LANCER",
-          "caption2": "Automatic Transmission RM380<br>Maximum Passenger: 5<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Mitsubishi%20Lancer%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/alphard-600x300.jpg",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title3": "TOYOTA ALPHARD",
-          "caption3": "Automatic Transmission RM750<br>Maximum Passenger: 7<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Alphard%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2015-honda-civic-si-sedan-si-with-navi-crystal-black-pearl-550x450.png",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title4": "HONDA CIVIC",
-          "caption4": "Automatic Transmission RM390<br>Maximum Passenger: 5<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Honda%20Civic2015%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
-          "media5": {
-            "image": {
-              "active": true,
-              "src": "images/blocks.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title5": "TRENDY WEBSITE BLOCKS",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media6": {
-            "image": {
-              "active": true,
-              "src": "images/host.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_anchor": "features1-1n"
-        },
-        {
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"page3.html#features1-2b\" data-toolbar=\"-mbrBtnMove\">COASTER DAN BAS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">KEMBALI KE LAMAN UTAMA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://form.jotform.me/82231969083462\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BORANG TEMPAHAN ONLINE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Kereta%20Sewa\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WHATSAPP KAMI SEKARANG</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-2c"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#c1c1c1",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "HUBUNGI KAMI JIKA ADA SEBARANG PERTANYAAN",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">HANTAR</a>",
-          "form": {
-            "action": "afdalhaziqms@gmail.com",
-            "alerts": {
-              "success": "Pertanyaan anda telah di hantar! Kami akan hubungi anda segera! Terima Kasih Aok."
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Nama*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Nombor Telefon*"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Jangan malu jangan segan. Sila nyatakan Pertanyaan anda di sini. Kita akan hubungi anda secepat mungkin. Boleh call/whatsapp ke 0148630141 untuk hubungan yang lebih pantas! :)"
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_anchor": "form1-28"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f0f0f0",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "text": "FOLLOW KAMI DI:",
-          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/AMTsarawak/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" href=\"http://www.afdalmajutransportation.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" target=\"_blank\"><i class=\"socicon socicon-googleplus\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/afdalmajutransportation\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons2",
-          "_anchor": "social-buttons2-16"
-        },
-        {
-          "_params": {
-            "googleMap": {
-              "address": "AFDAL MAJU TRANSPORTATIONS",
-              "placeId": "ChIJB5KyMzai-zERHAAuQexTq74",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-e"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/13221164-1010315769036164-4635766494822955108-o-265x208.jpg",
-              "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "text1": "<strong>ALAMAT</strong><br>Lot 114 Lorong 22MB2B<br>Desa Ilmu Phase 25,<br>Kota Samarahan, Sarawak",
-          "text2": "<strong>HUBUNGI KAMI</strong><br>\nEmail: afdalmaju@mail.com<br>\nPhone: <a href=\"tel:+60148630141\">+6 (014) 8630141</a><br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>PAUTAN SOSIAL</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li>Facebook Page :<a href=\"https://www.facebook.com/AMTsarawak\" target=\"_blank\">Kereta Sewa AMT</a></li><li>Instagram: <a href=\"https://www.instagram.com/afdalmajutransportation\" target=\"_blank\">afdalmajutransportation</a></li><li>Whatsapp : <a href=\"tel:+60148630141\">+6 (014 )8630141</a></li><li>Full Website: <a href=\"http://www.afdalmajutransportation.com/\">afdalmajutransportation.com</a></li></ul>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-f"
-        }
-      ]
-    },
-    "page1.html": {
-      "settings": {
-        "meta_descr": "Kami menyediakan kereta sewa di Kuching Sarawak. Penghantaran ke airport percuma dan harga yang berpatutan. Syukran.",
-        "title": "ABOUT",
-        "order": 5,
-        "footer_custom": "<!-- WhatsHelp.io widget -->\n<script type=\"text/javascript\">\n    (function () {\n        var options = {\n            whatsapp: \"+60148630141\", // WhatsApp number\n            call_to_action: \"Whatsapp Kami Sini Haa\", // Call to action\n            position: \"left\", // Position may be 'right' or 'left'\n        };\n        var proto = document.location.protocol, host = \"whatshelp.io\", url = proto + \"//static.\" + host;\n        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';\n        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };\n        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\n    })();\n</script>\n<!-- /WhatsHelp.io widget -->\n<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b04a9f5d0f6723da57ec812/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->"
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#ededed"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#cccccc"
-            },
-            ".mbr-brand__name a": {
-              "font-size": "14px"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": true,
-            "color": "#ededed",
-            "hamburgerColor": "#cccccc"
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">LAMAN UTAMA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">SIAPA KAMI</a></li> ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>LIST KERETA</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERMA DAN SYARAT</a></li> ",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/c4-588734aa6a22dheader.png-130x128.jpg",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "#top",
-              "size": 0,
-              "linkInNewWindow": false,
-              "name": "mobirise",
-              "family": "MobiriseIcons",
-              "newWindow": false,
-              "active": true
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AFDAL MAJU TRANSPORTATION PHONE:+60148630141<br><br></a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-h"
-        },
-        {
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_params": {
-            "autoplay": true,
-            "fullScreen": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showBullets": false,
-            "bgColor": "#2c2c2c",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "AMT SARAWAK<div>WELCOME YOU</div>",
-                "contentAlign": "right",
-                "text": "<b>SALAM SEJAHTERA KEPADA SEMUA PELANGGAN.\n</b><br><b>SIAPA KAMI?</b><br><br><b>**Kami menjalankan perkhidmatan Kereta Sewa di area Kuching dan Kota Samarahan.</b><br><b>**AMT Transport adalah sebuah Syarikat Berdaftar Milik Penuh Bumiputera.&nbsp;</b><br><b>**Matlamat kami hanya satu, menyelesaikan masalah transportatasi anda di Kuching-Samarahan, Sarawak.<br></b><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">LIST KERETA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">KEMBALI KE LAMAN UTAMA</a> ",
-                "overlay": true,
-                "overlayOpacity": "0.7",
-                "overlayColor": "#ededed"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "MATLAMAT AMT",
-                "contentAlign": "right",
-                "text": "Matlamat utama kami adalah memberi khidmat yang terbaik dengan kadar sewaan yang pasti mampu bagi semua golongan. Kami juga sentiasa memastikan keadaan kereta yang anda sewa dalam keadaan bersih, selesa dan selamat untuk pemanduan. Malah proses sewaan dengan kami juga berjalan dengan mudah dan cepat.<b> \n</b><br>\n<br><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">LIST KERETA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">KEMBALI KE LAMAN UTAMA</a> ",
-                "overlay": true,
-                "overlayOpacity": "0.5",
-                "overlayColor": "#ffffff"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Hubungi Kami Sekarang",
-                "contentAlign": "left",
-                "text": "<b>Kami amat berbesar hati dan mengalu-alukan anda untuk menggunakan perkhidmatan kami. \n<br>\n<br>Sila hubungi kami di talian berikut <br>untuk membuat tempahan. \n<br>Tel : 014-8630141 \n<br>Jumpa di Kuching.</b><br><b>:-)</b><br><b><br></b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>LIST KERETA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">KEMBALI KE LAMAN UTAMA<br></a> ",
-                "overlay": true,
-                "overlayOpacity": "0.6",
-                "overlayColor": "#ffffff"
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider",
-          "_styles": {
-            "H1": {
-              "color": "#000000",
-              "text-align": "left",
-              "font-size": "36px"
-            },
-            "P": {
-              "text-align": "left",
-              "color": "#000000",
-              "font-size": "16px"
-            },
-            "B": {
-              "color": "#2c2c2c",
-              "font-size": "16px",
-              "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
-            },
-            "DIV": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "slider-m"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/13221164-1010315769036164-4635766494822955108-o-265x208.jpg",
-              "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "text1": "<strong>ALAMAT</strong><br>Lot 114 Lorong 22MB2B<br>Desa Ilmu Phase 25,<br>Kota Samarahan, Sarawak",
-          "text2": "<strong>HUBUNGI KAMI</strong><br>\nEmail: afdalmaju@mail.com<br>\nPhone: <a href=\"tel:+60148630141\">+6 (014) 8630141</a><br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>PAUTAN SOSIAL</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li>Facebook Page :<a href=\"https://www.facebook.com/AMTsarawak\" target=\"_blank\">Kereta Sewa AMT</a></li><li>Instagram: <a href=\"https://www.instagram.com/afdalmajutransportation\" target=\"_blank\">afdalmajutransportation</a></li><li>Whatsapp : <a href=\"tel:+60148630141\">+6 (014 )8630141</a></li><li>Full Website: <a href=\"http://www.afdalmajutransportation.com/\">afdalmajutransportation.com</a></li></ul>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-i"
-        }
-      ]
-    },
-    "page2.html": {
-      "settings": {
-        "meta_descr": "Kami menyediakan kereta sewa di Kuching Sarawak. Penghantaran ke airport percuma dan harga yang berpatutan. Syukran.",
-        "title": "CONTACT",
-        "order": 4,
-        "footer_custom": "<!-- WhatsHelp.io widget -->\n<script type=\"text/javascript\">\n    (function () {\n        var options = {\n            whatsapp: \"+60148630141\", // WhatsApp number\n            call_to_action: \"Whatsapp Kami Sini Haa\", // Call to action\n            position: \"left\", // Position may be 'right' or 'left'\n        };\n        var proto = document.location.protocol, host = \"whatshelp.io\", url = proto + \"//static.\" + host;\n        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';\n        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };\n        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\n    })();\n</script>\n<!-- /WhatsHelp.io widget -->\n<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b04a9f5d0f6723da57ec812/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->"
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#ededed"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#cccccc"
-            },
-            ".mbr-brand__name a": {
-              "font-size": "14px"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": true,
-            "color": "#ededed",
-            "hamburgerColor": "#cccccc"
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">LAMAN UTAMA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">SIAPA KAMI</a></li> ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>LIST KERETA</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERMA DAN SYARAT</a></li> ",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/c4-588734aa6a22dheader.png-130x128.jpg",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "#top",
-              "size": 0,
-              "linkInNewWindow": false,
-              "name": "mobirise",
-              "family": "MobiriseIcons",
-              "newWindow": false,
-              "active": true
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AFDAL MAJU TRANSPORTATION PHONE:+60148630141<br><br></a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-j"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/13221164-1010315769036164-4635766494822955108-o-265x208.jpg",
-              "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "text1": "<strong>ALAMAT</strong><br>Lot 114 Lorong 22MB2B<br>Desa Ilmu Phase 25,<br>Kota Samarahan, Sarawak",
-          "text2": "<strong>HUBUNGI KAMI</strong><br>\nEmail: afdalmaju@mail.com<br>\nPhone: <a href=\"tel:+60148630141\">+6 (014) 8630141</a><br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>PAUTAN SOSIAL</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li>Facebook Page :<a href=\"https://www.facebook.com/AMTsarawak\" target=\"_blank\">Kereta Sewa AMT</a></li><li>Instagram: <a href=\"https://www.instagram.com/afdalmajutransportation\" target=\"_blank\">afdalmajutransportation</a></li><li>Whatsapp : <a href=\"tel:+60148630141\">+6 (014 )8630141</a></li><li>Full Website: <a href=\"http://www.afdalmajutransportation.com/\">afdalmajutransportation.com</a></li></ul>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-k"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f0f0f0",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "text": "FOLLOW US",
-          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/AMTsarawak/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" href=\"http://www.afdalmajutransportation.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" target=\"_blank\"><i class=\"socicon socicon-googleplus\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/afdalmajutransportation\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons2",
-          "_anchor": "social-buttons2-1e"
-        }
-      ]
-    },
-    "page3.html": {
+    "CARLIST.html": {
       "settings": {
         "meta_descr": "Kami menyediakan kereta sewa di Kuching Sarawak. Penghantaran ke airport percuma dan harga yang berpatutan. Syukran.",
         "title": "CAR LIST",
@@ -1457,7 +124,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/perodua-viva-576x3240.jpg",
+              "src": "@PROJECT_PATH@/assets/images/perodua-viva-576x324.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1480,7 +147,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/myvi2-480x4801.png",
+              "src": "@PROJECT_PATH@/assets/images/myvi2-480x480.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1503,7 +170,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/perodua-bezza-white-front-left-malaysia-600x4002.jpg",
+              "src": "@PROJECT_PATH@/assets/images/perodua-bezza-white-front-left-malaysia-600x400.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1526,7 +193,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mpv-perodua-alza-auto-7-seat-1509386752-5b2e53ba0-600x6003.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mpv-perodua-alza-auto-7-seat-1509386752-5b2e53ba0-600x600.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1622,7 +289,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/saga-480x4804.jpg",
+              "src": "@PROJECT_PATH@/assets/images/saga-480x480.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1645,7 +312,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/blogfarhanyusof-proton-exora-450x3005.jpg",
+              "src": "@PROJECT_PATH@/assets/images/blogfarhanyusof-proton-exora-450x300.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1668,7 +335,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vios-600x2766.png",
+              "src": "@PROJECT_PATH@/assets/images/vios-600x276.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1691,7 +358,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2011-toyota-camry-xle-v6-6-speed-at-sedan-angular-front-600x3987.png",
+              "src": "@PROJECT_PATH@/assets/images/2011-toyota-camry-xle-v6-6-speed-at-sedan-angular-front-600x398.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1787,7 +454,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/avanza11-600x2768.jpg",
+              "src": "@PROJECT_PATH@/assets/images/avanza11-600x276.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1810,7 +477,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/innova-480x4809.jpg",
+              "src": "@PROJECT_PATH@/assets/images/innova-480x480.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1833,7 +500,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-600x34810.jpg",
+              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-600x348.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1856,7 +523,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mitsubishi-l200-iv-restyling-2013-2015-pickup-interior-3-560x29011.png",
+              "src": "@PROJECT_PATH@/assets/images/mitsubishi-l200-iv-restyling-2013-2015-pickup-interior-3-560x290.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1952,7 +619,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vellfire-600x30012.jpg",
+              "src": "@PROJECT_PATH@/assets/images/vellfire-600x300.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1975,7 +642,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2015-mitsubishi-lancer-evo-x-final-concept-600x40013.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2015-mitsubishi-lancer-evo-x-final-concept-600x400.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1998,7 +665,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/alphard-600x30014.jpg",
+              "src": "@PROJECT_PATH@/assets/images/alphard-600x300.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2021,7 +688,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2015-honda-civic-si-sedan-si-with-navi-crystal-black-pearl-550x45015.png",
+              "src": "@PROJECT_PATH@/assets/images/2015-honda-civic-si-sedan-si-with-navi-crystal-black-pearl-550x450.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2283,7 +950,320 @@
         }
       ]
     },
-    "page6.html": {
+    "CONTACT.html": {
+      "settings": {
+        "meta_descr": "Kami menyediakan kereta sewa di Kuching Sarawak. Penghantaran ke airport percuma dan harga yang berpatutan. Syukran.",
+        "title": "CONTACT",
+        "order": 4,
+        "footer_custom": "<!-- WhatsHelp.io widget -->\n<script type=\"text/javascript\">\n    (function () {\n        var options = {\n            whatsapp: \"+60148630141\", // WhatsApp number\n            call_to_action: \"Whatsapp Kami Sini Haa\", // Call to action\n            position: \"left\", // Position may be 'right' or 'left'\n        };\n        var proto = document.location.protocol, host = \"whatshelp.io\", url = proto + \"//static.\" + host;\n        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';\n        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };\n        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\n    })();\n</script>\n<!-- /WhatsHelp.io widget -->\n<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b04a9f5d0f6723da57ec812/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ededed"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#cccccc"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#ededed",
+            "hamburgerColor": "#cccccc"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">LAMAN UTAMA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">SIAPA KAMI</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>LIST KERETA</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERMA DAN SYARAT</a></li> ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/c4-588734aa6a22dheader.png-130x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "#top",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AFDAL MAJU TRANSPORTATION PHONE:+60148630141<br><br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-j"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/13221164-1010315769036164-4635766494822955108-o-265x208.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ALAMAT</strong><br>Lot 114 Lorong 22MB2B<br>Desa Ilmu Phase 25,<br>Kota Samarahan, Sarawak",
+          "text2": "<strong>HUBUNGI KAMI</strong><br>\nEmail: afdalmaju@mail.com<br>\nPhone: <a href=\"tel:+60148630141\">+6 (014) 8630141</a><br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>PAUTAN SOSIAL</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li>Facebook Page :<a href=\"https://www.facebook.com/AMTsarawak\" target=\"_blank\">Kereta Sewa AMT</a></li><li>Instagram: <a href=\"https://www.instagram.com/afdalmajutransportation\" target=\"_blank\">afdalmajutransportation</a></li><li>Whatsapp : <a href=\"tel:+60148630141\">+6 (014 )8630141</a></li><li>Full Website: <a href=\"http://www.afdalmajutransportation.com/\">afdalmajutransportation.com</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-k"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f0f0f0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/AMTsarawak/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" href=\"http://www.afdalmajutransportation.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" target=\"_blank\"><i class=\"socicon socicon-googleplus\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/afdalmajutransportation\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-1e"
+        }
+      ]
+    },
+    "ABOUT.html": {
+      "settings": {
+        "meta_descr": "Kami menyediakan kereta sewa di Kuching Sarawak. Penghantaran ke airport percuma dan harga yang berpatutan. Syukran.",
+        "title": "ABOUT",
+        "order": 5,
+        "footer_custom": "<!-- WhatsHelp.io widget -->\n<script type=\"text/javascript\">\n    (function () {\n        var options = {\n            whatsapp: \"+60148630141\", // WhatsApp number\n            call_to_action: \"Whatsapp Kami Sini Haa\", // Call to action\n            position: \"left\", // Position may be 'right' or 'left'\n        };\n        var proto = document.location.protocol, host = \"whatshelp.io\", url = proto + \"//static.\" + host;\n        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';\n        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };\n        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\n    })();\n</script>\n<!-- /WhatsHelp.io widget -->\n<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b04a9f5d0f6723da57ec812/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ededed"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#cccccc"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#ededed",
+            "hamburgerColor": "#cccccc"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">LAMAN UTAMA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">SIAPA KAMI</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>LIST KERETA</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERMA DAN SYARAT</a></li> ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/c4-588734aa6a22dheader.png-130x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "#top",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AFDAL MAJU TRANSPORTATION PHONE:+60148630141<br><br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-h"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": false,
+            "bgColor": "#2c2c2c",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "AMT SARAWAK<div>WELCOME YOU</div>",
+                "contentAlign": "right",
+                "text": "<b>SALAM SEJAHTERA KEPADA SEMUA PELANGGAN.\n</b><br><b>SIAPA KAMI?</b><br><br><b>**Kami menjalankan perkhidmatan Kereta Sewa di area Kuching dan Kota Samarahan.</b><br><b>**AMT Transport adalah sebuah Syarikat Berdaftar Milik Penuh Bumiputera.&nbsp;</b><br><b>**Matlamat kami hanya satu, menyelesaikan masalah transportatasi anda di Kuching-Samarahan, Sarawak.<br></b><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">LIST KERETA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">KEMBALI KE LAMAN UTAMA</a> ",
+                "overlay": true,
+                "overlayOpacity": "0.7",
+                "overlayColor": "#ededed"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "MATLAMAT AMT",
+                "contentAlign": "right",
+                "text": "Matlamat utama kami adalah memberi khidmat yang terbaik dengan kadar sewaan yang pasti mampu bagi semua golongan. Kami juga sentiasa memastikan keadaan kereta yang anda sewa dalam keadaan bersih, selesa dan selamat untuk pemanduan. Malah proses sewaan dengan kami juga berjalan dengan mudah dan cepat.<b> \n</b><br>\n<br><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">LIST KERETA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">KEMBALI KE LAMAN UTAMA</a> ",
+                "overlay": true,
+                "overlayOpacity": "0.5",
+                "overlayColor": "#ffffff"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Hubungi Kami Sekarang",
+                "contentAlign": "left",
+                "text": "<b>Kami amat berbesar hati dan mengalu-alukan anda untuk menggunakan perkhidmatan kami. \n<br>\n<br>Sila hubungi kami di talian berikut <br>untuk membuat tempahan. \n<br>Tel : 014-8630141 \n<br>Jumpa di Kuching.</b><br><b>:-)</b><br><b><br></b>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>LIST KERETA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">KEMBALI KE LAMAN UTAMA<br></a> ",
+                "overlay": true,
+                "overlayOpacity": "0.6",
+                "overlayColor": "#ffffff"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "H1": {
+              "color": "#000000",
+              "text-align": "left",
+              "font-size": "36px"
+            },
+            "P": {
+              "text-align": "left",
+              "color": "#000000",
+              "font-size": "16px"
+            },
+            "B": {
+              "color": "#2c2c2c",
+              "font-size": "16px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            "DIV": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "slider-m"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/13221164-1010315769036164-4635766494822955108-o-265x208.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ALAMAT</strong><br>Lot 114 Lorong 22MB2B<br>Desa Ilmu Phase 25,<br>Kota Samarahan, Sarawak",
+          "text2": "<strong>HUBUNGI KAMI</strong><br>\nEmail: afdalmaju@mail.com<br>\nPhone: <a href=\"tel:+60148630141\">+6 (014) 8630141</a><br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>PAUTAN SOSIAL</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li>Facebook Page :<a href=\"https://www.facebook.com/AMTsarawak\" target=\"_blank\">Kereta Sewa AMT</a></li><li>Instagram: <a href=\"https://www.instagram.com/afdalmajutransportation\" target=\"_blank\">afdalmajutransportation</a></li><li>Whatsapp : <a href=\"tel:+60148630141\">+6 (014 )8630141</a></li><li>Full Website: <a href=\"http://www.afdalmajutransportation.com/\">afdalmajutransportation.com</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-i"
+        }
+      ]
+    },
+    "TERMANDCONDITION.html": {
       "settings": {
         "meta_descr": "Kami menyediakan kereta sewa di Kuching Sarawak. Penghantaran ke airport percuma dan harga yang berpatutan. Syukran.",
         "title": "term and condition",
@@ -2432,6 +1412,1027 @@
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-1b"
+        }
+      ]
+    },
+    "HOME.html": {
+      "settings": {
+        "main": true,
+        "title": "Kereta Sewa Kuching",
+        "meta_descr": "Kami menyediakan kereta sewa di Kuching Sarawak. Penghantaran ke airport percuma dan harga yang berpatutan. Syukran.",
+        "header_custom": "",
+        "footer_custom": "<!-- WhatsHelp.io widget -->\n<script type=\"text/javascript\">\n    (function () {\n        var options = {\n            whatsapp: \"+60148630141\", // WhatsApp number\n            call_to_action: \"Whatsapp Kami Sini Haa\", // Call to action\n            position: \"left\", // Position may be 'right' or 'left'\n        };\n        var proto = document.location.protocol, host = \"whatshelp.io\", url = proto + \"//static.\" + host;\n        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';\n        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };\n        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\n    })();\n</script>\n<!-- /WhatsHelp.io widget -->\n<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b04a9f5d0f6723da57ec812/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ededed"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#cccccc"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#ededed",
+            "hamburgerColor": "#cccccc"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">LAMAN UTAMA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">SIAPA KAMI</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>LIST KERETA</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERMA DAN SYARAT</a></li> ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/c4-588734aa6a22dheader.png-130x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "#top",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AFDAL MAJU TRANSPORTATION PHONE:+60148630141<br><br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/sarawak-9-1600x1200.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#cccccc",
+            "overlayOpacity": "0.6"
+          },
+          "title": "SELAMAT DATANG KE KUCHING&nbsp;<br>Perkhidmatan Sewa Kenderaan. Kereta, Van dan Bus di Sarawak.",
+          "text": "KAMI ADALAH PILIHAN TERBAIK ANDA DI KUCHING, SARAWAK<br>ANTARA PERKHIDMATAN KAMI<br><i><a href=\"page3.html\" target=\"_blank\">(<b>KERETA SEWA PANDU SENDIRI)</b></a><b>&nbsp;</b><a href=\"page3.html\">(KERETA SEWA DENGAN PEMANDU PERIBADI</a>)<br>(PAKEJ PERLANCONGAN) <a href=\"page3.html#features1-2b\">(VAN DAN BUS SEWA/CATAR)</a></i><br><b>PERCUMA! </b>Penghantaran ke Airport Kuching , Terminal Bus and Hotel!",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>LIST KENDERAAN SEWA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"https://form.jotform.me/82231969083462\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Keretasewa\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>WHATSAPP KAMI&nbsp;</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"tel:+60148630141\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CALL KAMI</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"https://kuchingcarrental.github.io/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ENGLISH SITE</a>   ",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-4",
+          "_customCSS": "",
+          "_styles": {
+            "P": {
+              "color": "#2c2c2c",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "H1": {
+              "color": "#2c2c2c"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Tempat-tempat Menarik di Kuching",
+          "text": "Jangan lepaskan peluang anda untuk pergi ke tempat-tempat menarik ini di Kuching Sarawak.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://form.jotform.me/82231969083462\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>TEMPAH SEKARANG</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-25"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/bako-natoinal-park-610x407.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bako-natoinal-park-610x407-610x407.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Taman Negara Bako",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/hutan-simpan-semenggoh-610x452.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hutan-simpan-semenggoh-610x452-610x452.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Hutan Simpan Semenggoh",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/fairy-cave-bau-610x405.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fairy-cave-bau-610x405-610x405.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Fairy Cave &amp; Wind Cave",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/pantai-damai-sarawak-610x405.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pantai-damai-sarawak-610x405-610x405.jpg",
+                "alt": "",
+                "title": "",
+                "caption": " Pantai Damai yang indah",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/jong-crocodile-farm-610x407.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jong-crocodile-farm-610x407-610x407.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Taman Buaya Jong",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/rumah-panjang-ann-rais-610x419.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rumah-panjang-ann-rais-610x419-610x419.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Rumah Panjang Annah Rais Bidayuh",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sarawak-cultural-village-610x407.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sarawak-cultural-village-610x407-610x407.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Taman Budaya Sarawak",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/pasar-serikin-610x343.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pasar-serikin-610x343-610x343.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Pasar Serikin",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-24"
+        },
+        {
+          "_params": {
+            "showHeader": true,
+            "showSubheader": true,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "PILIH MESIN PILIHAN ANDA SEKARANG",
+          "subheader": "\"Your Tranportation Solution in Kuching, Sarawak, Malaysia",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/perodua-viva-576x3240.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "PERODUA VIVA",
+          "caption1": "<p>HARGA SEHARI:</p><p>Automatic Transmission RM100</p>Manual Transmission RM90<br><br>Maximum Passenger: 5",
+          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Perodua%20Viva%20(AUTO/MANUAL).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP<br></a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE<br></a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/myvi2-480x4801.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "PERODUA MYVI",
+          "caption2": "Automatic Transmission RM120<br>Maximum Passenger: 5<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Perodua%20Myvi%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/perodua-bezza-white-front-left-malaysia-600x4002.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "PERODUA BEZZA",
+          "caption3": "Automatic Transmission RM140<br>Maximum Passenger: 5<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Perodua%20Bezza%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mpv-perodua-alza-auto-7-seat-1509386752-5b2e53ba0-600x6003.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "PERODUA ALZA",
+          "caption4": "Automatic Transmission RM180<br>Maximum Passenger: 7<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Perodua%20Alza%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-1k"
+        },
+        {
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/saga-480x4804.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "PROTON SAGA",
+          "caption1": "Automatic Transmission RM120<br>Maximum Passenger: 5<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Proton%20Saga%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/blogfarhanyusof-proton-exora-450x3005.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "PROTON EXORA",
+          "caption2": "Automatic Transmission RM190<br>Maximum Passenger: 7/8<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Proton%20Exora%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/vios-600x2766.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "TOYOYA VIOS",
+          "caption3": "Automatic Transmission RM190<br>Maximum Passenger: 5<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Vios%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2011-toyota-camry-xle-v6-6-speed-at-sedan-angular-front-600x3987.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "TOYOTA CAMRY",
+          "caption4": "Automatic Transmission RM600<br>Maximum Passenger: 5<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Camry%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-1l"
+        },
+        {
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/avanza11-600x2768.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "TOYOTA AVANZA",
+          "caption1": "Automatic Transmission RM200<br>Maximum Passenger: 7<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Avanza%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/innova-480x4809.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "TOYOTA INNOVA",
+          "caption2": "Automatic Transmission RM250<br>Maximum Passenger: 7/8<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Innova%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-600x34810.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "TOYOTA VAN HIACE",
+          "caption3": "Automatic Transmission RM270<br>Maximum Passenger: 11<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Hiace%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mitsubishi-l200-iv-restyling-2013-2015-pickup-interior-3-560x29011.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "4X4 MITSUBISHI TRITON",
+          "caption4": "Automatic Transmission RM400<br>Maximum Passenger: 5<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Mitsubishi%20Triton%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-1m"
+        },
+        {
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/vellfire-600x30012.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "TOYOTA VELLFIRE",
+          "caption1": "Automatic Transmission RM800<br>Maximum Passenger: 7<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Vellfire%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2015-mitsubishi-lancer-evo-x-final-concept-600x40013.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "MITSUBISHI LANCER",
+          "caption2": "Automatic Transmission RM380<br>Maximum Passenger: 5<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Mitsubishi%20Lancer%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/alphard-600x30014.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "TOYOTA ALPHARD",
+          "caption3": "Automatic Transmission RM750<br>Maximum Passenger: 7<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Alphard%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2015-honda-civic-si-sedan-si-with-navi-crystal-black-pearl-550x45015.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "HONDA CIVIC",
+          "caption4": "Automatic Transmission RM390<br>Maximum Passenger: 5<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Honda%20Civic2015%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-1n"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"page3.html#features1-2b\" data-toolbar=\"-mbrBtnMove\">COASTER DAN BAS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">KEMBALI KE LAMAN UTAMA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://form.jotform.me/82231969083462\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BORANG TEMPAHAN ONLINE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Kereta%20Sewa\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WHATSAPP KAMI SEKARANG</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2c"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "HUBUNGI KAMI JIKA ADA SEBARANG PERTANYAAN",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">HANTAR</a>",
+          "form": {
+            "action": "afdalhaziqms@gmail.com",
+            "alerts": {
+              "success": "Pertanyaan anda telah di hantar! Kami akan hubungi anda segera! Terima Kasih Aok."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nama*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Nombor Telefon*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Jangan malu jangan segan. Sila nyatakan Pertanyaan anda di sini. Kita akan hubungi anda secepat mungkin. Boleh call/whatsapp ke 0148630141 untuk hubungan yang lebih pantas! :)"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-28"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f0f0f0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "FOLLOW KAMI DI:",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/AMTsarawak/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" href=\"http://www.afdalmajutransportation.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" target=\"_blank\"><i class=\"socicon socicon-googleplus\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/afdalmajutransportation\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-16"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "AFDAL MAJU TRANSPORTATIONS",
+              "placeId": "ChIJB5KyMzai-zERHAAuQexTq74",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-e"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/13221164-1010315769036164-4635766494822955108-o-265x208.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ALAMAT</strong><br>Lot 114 Lorong 22MB2B<br>Desa Ilmu Phase 25,<br>Kota Samarahan, Sarawak",
+          "text2": "<strong>HUBUNGI KAMI</strong><br>\nEmail: afdalmaju@mail.com<br>\nPhone: <a href=\"tel:+60148630141\">+6 (014) 8630141</a><br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>PAUTAN SOSIAL</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li>Facebook Page :<a href=\"https://www.facebook.com/AMTsarawak\" target=\"_blank\">Kereta Sewa AMT</a></li><li>Instagram: <a href=\"https://www.instagram.com/afdalmajutransportation\" target=\"_blank\">afdalmajutransportation</a></li><li>Whatsapp : <a href=\"tel:+60148630141\">+6 (014 )8630141</a></li><li>Full Website: <a href=\"http://www.afdalmajutransportation.com/\">afdalmajutransportation.com</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-f"
         }
       ]
     }
