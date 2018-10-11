@@ -1044,7 +1044,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>ALAMAT</strong><br>Lot 114 Lorong 22MB2B<br>Desa Ilmu Phase 25,<br>Kota Samarahan, Sarawak",
+          "text1": "<strong>ALAMAT</strong><br>Kuching International Airport",
           "text2": "<strong>HUBUNGI KAMI</strong><br>\nEmail: afdalmaju@gmail.com<br>\nPhone: <a href=\"tel:+60148630141\">+6 (014) 8630141</a><br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>PAUTAN SOSIAL</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li>Facebook Page :<a href=\"https://www.facebook.com/AMTsarawak\" target=\"_blank\">Kereta Sewa AMT</a></li><li>Instagram: <a href=\"https://www.instagram.com/afdalmajutransportation\" target=\"_blank\">afdalmajutransportation</a></li><li>Whatsapp : <a href=\"tel:+60148630141\">+6 (014 )8630141</a></li><li>Full Website: <a href=\"http://www.afdalmajutransportation.com/\">afdalmajutransportation.com</a></li></ul>",
           "_tags": [
@@ -1260,7 +1260,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>ALAMAT</strong><br>Lot 114 Lorong 22MB2B<br>Desa Ilmu Phase 25,<br>Kota Samarahan, Sarawak",
+          "text1": "<strong>ALAMAT</strong><br>Kuching International Airport",
           "text2": "<strong>HUBUNGI KAMI</strong><br>\nEmail: afdalmaju@gmail.com<br>\nPhone: <a href=\"tel:+60148630141\">+6 (014) 8630141</a><br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>PAUTAN SOSIAL</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li>Facebook Page :<a href=\"https://www.facebook.com/AMTsarawak\" target=\"_blank\">Kereta Sewa AMT</a></li><li>Instagram: <a href=\"https://www.instagram.com/afdalmajutransportation\" target=\"_blank\">afdalmajutransportation</a></li><li>Whatsapp : <a href=\"tel:+60148630141\">+6 (014 )8630141</a></li><li>Full Website: <a href=\"http://www.afdalmajutransportation.com/\">afdalmajutransportation.com</a></li></ul>",
           "_tags": [
@@ -1412,7 +1412,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>ALAMAT</strong><br>Lot 114 Lorong 22MB2B<br>Desa Ilmu Phase 25,<br>Kota Samarahan, Sarawak",
+          "text1": "<strong>ALAMAT</strong><br>Kuching International Airport",
           "text2": "<strong>HUBUNGI KAMI</strong><br>\nEmail: afdalmaju@gmail.com<br>\nPhone: <a href=\"tel:+60148630141\">+6 (014) 8630141</a><br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>PAUTAN SOSIAL</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li>Facebook Page :<a href=\"https://www.facebook.com/AMTsarawak\" target=\"_blank\">Kereta Sewa AMT</a></li><li>Instagram: <a href=\"https://www.instagram.com/afdalmajutransportation\" target=\"_blank\">afdalmajutransportation</a></li><li>Whatsapp : <a href=\"tel:+60148630141\">+6 (014 )8630141</a></li><li>Full Website: <a href=\"http://www.afdalmajutransportation.com/\">afdalmajutransportation.com</a></li></ul>",
           "_tags": [
@@ -1681,7 +1681,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/perodua-viva-576x32416.jpg",
+              "src": "@PROJECT_PATH@/assets/images/perodua-viva-576x32432.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1704,7 +1704,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/myvi2-480x48017.png",
+              "src": "@PROJECT_PATH@/assets/images/myvi2-480x48033.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1727,7 +1727,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/perodua-bezza-white-front-left-malaysia-600x40018.jpg",
+              "src": "@PROJECT_PATH@/assets/images/perodua-bezza-white-front-left-malaysia-600x40034.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1750,7 +1750,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mpv-perodua-alza-auto-7-seat-1509386752-5b2e53ba0-600x60019.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mpv-perodua-alza-auto-7-seat-1509386752-5b2e53ba0-600x60035.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1846,7 +1846,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/saga-480x48020.jpg",
+              "src": "@PROJECT_PATH@/assets/images/saga-480x48036.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1869,7 +1869,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/blogfarhanyusof-proton-exora-450x30021.jpg",
+              "src": "@PROJECT_PATH@/assets/images/blogfarhanyusof-proton-exora-450x30037.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1892,7 +1892,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vios-600x27622.png",
+              "src": "@PROJECT_PATH@/assets/images/vios-600x27638.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1915,7 +1915,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2011-toyota-camry-xle-v6-6-speed-at-sedan-angular-front-600x39823.png",
+              "src": "@PROJECT_PATH@/assets/images/2011-toyota-camry-xle-v6-6-speed-at-sedan-angular-front-600x39839.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2011,7 +2011,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/avanza11-600x27624.jpg",
+              "src": "@PROJECT_PATH@/assets/images/avanza11-600x27640.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2034,7 +2034,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/innova-480x48025.jpg",
+              "src": "@PROJECT_PATH@/assets/images/innova-480x48041.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2057,7 +2057,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-600x34826.jpg",
+              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-600x34842.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2080,7 +2080,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mitsubishi-l200-iv-restyling-2013-2015-pickup-interior-3-560x29027.png",
+              "src": "@PROJECT_PATH@/assets/images/mitsubishi-l200-iv-restyling-2013-2015-pickup-interior-3-560x29043.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2176,7 +2176,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vellfire-600x30028.jpg",
+              "src": "@PROJECT_PATH@/assets/images/vellfire-600x30044.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2199,7 +2199,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2015-mitsubishi-lancer-evo-x-final-concept-600x40029.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2015-mitsubishi-lancer-evo-x-final-concept-600x40045.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2222,7 +2222,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/alphard-600x30030.jpg",
+              "src": "@PROJECT_PATH@/assets/images/alphard-600x30046.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2245,7 +2245,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2015-honda-civic-si-sedan-si-with-navi-crystal-black-pearl-550x45031.png",
+              "src": "@PROJECT_PATH@/assets/images/2015-honda-civic-si-sedan-si-with-navi-crystal-black-pearl-550x45047.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2392,8 +2392,8 @@
         {
           "_params": {
             "googleMap": {
-              "address": "AFDAL MAJU TRANSPORTATIONS",
-              "placeId": "ChIJB5KyMzai-zERHAAuQexTq74",
+              "address": "kuching airport",
+              "placeId": "ChIJc7jaz6Sg-zERRXDaUpeCQN0",
               "state": "ok",
               "stateDetails": ""
             }
@@ -2433,7 +2433,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>ALAMAT</strong><br>Lot 114 Lorong 22MB2B<br>Desa Ilmu Phase 25,<br>Kota Samarahan, Sarawak",
+          "text1": "<strong>ALAMAT</strong><br>Kuching International Airport",
           "text2": "<strong>HUBUNGI KAMI</strong><br>\nEmail: afdalmaju@gmail.com<br>\nPhone: <a href=\"tel:+60148630141\">+6 (014) 8630141</a><br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>PAUTAN SOSIAL</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li>Facebook Page :<a href=\"https://www.facebook.com/AMTsarawak\" target=\"_blank\">Kereta Sewa AMT</a></li><li>Instagram: <a href=\"https://www.instagram.com/afdalmajutransportation\" target=\"_blank\">afdalmajutransportation</a></li><li>Whatsapp : <a href=\"tel:+60148630141\">+6 (014 )8630141</a></li><li>Full Website: <a href=\"http://www.afdalmajutransportation.com/\">afdalmajutransportation.com</a></li></ul>",
           "_tags": [
