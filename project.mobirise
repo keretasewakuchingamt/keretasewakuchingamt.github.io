@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AMT MAIN SITE-Bahasa Melayu",
-    "currentPage": "HOME.html",
+    "currentPage": ".html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1423,7 +1423,7 @@
         }
       ]
     },
-    "HOME.html": {
+    ".html": {
       "settings": {
         "main": true,
         "title": "Kereta Sewa Kuching",
