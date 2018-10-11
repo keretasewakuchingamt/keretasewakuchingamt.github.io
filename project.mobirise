@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.2",
-    "uniqCompNum": 85,
+    "uniqCompNum": 89,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -1045,7 +1045,7 @@
             }
           },
           "text1": "<strong>ALAMAT</strong><br>Lot 114 Lorong 22MB2B<br>Desa Ilmu Phase 25,<br>Kota Samarahan, Sarawak",
-          "text2": "<strong>HUBUNGI KAMI</strong><br>\nEmail: afdalmaju@mail.com<br>\nPhone: <a href=\"tel:+60148630141\">+6 (014) 8630141</a><br><br>",
+          "text2": "<strong>HUBUNGI KAMI</strong><br>\nEmail: afdalmaju@gmail.com<br>\nPhone: <a href=\"tel:+60148630141\">+6 (014) 8630141</a><br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>PAUTAN SOSIAL</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li>Facebook Page :<a href=\"https://www.facebook.com/AMTsarawak\" target=\"_blank\">Kereta Sewa AMT</a></li><li>Instagram: <a href=\"https://www.instagram.com/afdalmajutransportation\" target=\"_blank\">afdalmajutransportation</a></li><li>Whatsapp : <a href=\"tel:+60148630141\">+6 (014 )8630141</a></li><li>Full Website: <a href=\"http://www.afdalmajutransportation.com/\">afdalmajutransportation.com</a></li></ul>",
           "_tags": [
             "Theme"
@@ -1224,6 +1224,14 @@
           "_anchor": "slider-m"
         },
         {
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"page3.html#features1-2b\" data-toolbar=\"-mbrBtnMove\">COASTER DAN BAS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">KEMBALI KE LAMAN UTAMA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://form.jotform.me/82231969083462\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BORANG TEMPAHAN ONLINE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Kereta%20Sewa\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WHATSAPP KAMI SEKARANG</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2g"
+        },
+        {
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -1253,7 +1261,7 @@
             }
           },
           "text1": "<strong>ALAMAT</strong><br>Lot 114 Lorong 22MB2B<br>Desa Ilmu Phase 25,<br>Kota Samarahan, Sarawak",
-          "text2": "<strong>HUBUNGI KAMI</strong><br>\nEmail: afdalmaju@mail.com<br>\nPhone: <a href=\"tel:+60148630141\">+6 (014) 8630141</a><br><br>",
+          "text2": "<strong>HUBUNGI KAMI</strong><br>\nEmail: afdalmaju@gmail.com<br>\nPhone: <a href=\"tel:+60148630141\">+6 (014) 8630141</a><br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>PAUTAN SOSIAL</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li>Facebook Page :<a href=\"https://www.facebook.com/AMTsarawak\" target=\"_blank\">Kereta Sewa AMT</a></li><li>Instagram: <a href=\"https://www.instagram.com/afdalmajutransportation\" target=\"_blank\">afdalmajutransportation</a></li><li>Whatsapp : <a href=\"tel:+60148630141\">+6 (014 )8630141</a></li><li>Full Website: <a href=\"http://www.afdalmajutransportation.com/\">afdalmajutransportation.com</a></li></ul>",
           "_tags": [
             "Theme"
@@ -1405,7 +1413,7 @@
             }
           },
           "text1": "<strong>ALAMAT</strong><br>Lot 114 Lorong 22MB2B<br>Desa Ilmu Phase 25,<br>Kota Samarahan, Sarawak",
-          "text2": "<strong>HUBUNGI KAMI</strong><br>\nEmail: afdalmaju@mail.com<br>\nPhone: <a href=\"tel:+60148630141\">+6 (014) 8630141</a><br><br>",
+          "text2": "<strong>HUBUNGI KAMI</strong><br>\nEmail: afdalmaju@gmail.com<br>\nPhone: <a href=\"tel:+60148630141\">+6 (014) 8630141</a><br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>PAUTAN SOSIAL</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li>Facebook Page :<a href=\"https://www.facebook.com/AMTsarawak\" target=\"_blank\">Kereta Sewa AMT</a></li><li>Instagram: <a href=\"https://www.instagram.com/afdalmajutransportation\" target=\"_blank\">afdalmajutransportation</a></li><li>Whatsapp : <a href=\"tel:+60148630141\">+6 (014 )8630141</a></li><li>Full Website: <a href=\"http://www.afdalmajutransportation.com/\">afdalmajutransportation.com</a></li></ul>",
           "_tags": [
             "Theme"
@@ -2426,7 +2434,7 @@
             }
           },
           "text1": "<strong>ALAMAT</strong><br>Lot 114 Lorong 22MB2B<br>Desa Ilmu Phase 25,<br>Kota Samarahan, Sarawak",
-          "text2": "<strong>HUBUNGI KAMI</strong><br>\nEmail: afdalmaju@mail.com<br>\nPhone: <a href=\"tel:+60148630141\">+6 (014) 8630141</a><br><br>",
+          "text2": "<strong>HUBUNGI KAMI</strong><br>\nEmail: afdalmaju@gmail.com<br>\nPhone: <a href=\"tel:+60148630141\">+6 (014) 8630141</a><br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>PAUTAN SOSIAL</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li>Facebook Page :<a href=\"https://www.facebook.com/AMTsarawak\" target=\"_blank\">Kereta Sewa AMT</a></li><li>Instagram: <a href=\"https://www.instagram.com/afdalmajutransportation\" target=\"_blank\">afdalmajutransportation</a></li><li>Whatsapp : <a href=\"tel:+60148630141\">+6 (014 )8630141</a></li><li>Full Website: <a href=\"http://www.afdalmajutransportation.com/\">afdalmajutransportation.com</a></li></ul>",
           "_tags": [
             "Theme"
