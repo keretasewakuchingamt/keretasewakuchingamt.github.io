@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AMT MAIN SITE-Bahasa Melayu",
-    "currentPage": "TERMANDCONDITION.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -64,7 +64,7 @@
             "hamburgerColor": "#cccccc"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">LAMAN UTAMA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">SIAPA KAMI</a></li> ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>LIST KERETA</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERMA DAN SYARAT</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"CARLIST.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>LIST KERETA</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERMA DAN SYARAT</a></li> ",
           "logo": {
             "image": {
               "active": true,
@@ -985,7 +985,7 @@
             "hamburgerColor": "#cccccc"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">LAMAN UTAMA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">SIAPA KAMI</a></li> ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>LIST KERETA</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERMA DAN SYARAT</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"CARLIST.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>LIST KERETA</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERMA DAN SYARAT</a></li> ",
           "logo": {
             "image": {
               "active": true,
@@ -1111,7 +1111,7 @@
             "hamburgerColor": "#cccccc"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">LAMAN UTAMA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">SIAPA KAMI</a></li> ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>LIST KERETA</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERMA DAN SYARAT</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"CARLIST.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>LIST KERETA</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERMA DAN SYARAT</a></li> ",
           "logo": {
             "image": {
               "active": true,
@@ -1306,7 +1306,7 @@
             "hamburgerColor": "#cccccc"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">LAMAN UTAMA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">SIAPA KAMI</a></li> ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>LIST KERETA</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERMA DAN SYARAT</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"CARLIST.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>LIST KERETA</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERMA DAN SYARAT</a></li> ",
           "logo": {
             "image": {
               "active": true,
@@ -1460,7 +1460,7 @@
             "hamburgerColor": "#cccccc"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">LAMAN UTAMA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">SIAPA KAMI</a></li> ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>LIST KERETA</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERMA DAN SYARAT</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"CARLIST.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>LIST KERETA</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERMA DAN SYARAT</a></li> ",
           "logo": {
             "image": {
               "active": true,
@@ -1511,8 +1511,8 @@
             "overlayOpacity": "0.6"
           },
           "title": "SELAMAT DATANG KE KUCHING&nbsp;<br>Perkhidmatan Sewa Kenderaan. Kereta, Van dan Bus di Sarawak.",
-          "text": "KAMI ADALAH PILIHAN TERBAIK ANDA DI KUCHING, SARAWAK<br>ANTARA PERKHIDMATAN KAMI<br><i><a href=\"page3.html\" target=\"_blank\">(<b>KERETA SEWA PANDU SENDIRI)</b></a><b>&nbsp;</b><a href=\"page3.html\">(KERETA SEWA DENGAN PEMANDU PERIBADI</a>)<br>(PAKEJ PERLANCONGAN) <a href=\"page3.html#features1-2b\">(VAN DAN BUS SEWA/CATAR)</a></i><br><b>PERCUMA! </b>Penghantaran ke Airport Kuching , Terminal Bus and Hotel!",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>LIST KENDERAAN SEWA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"https://form.jotform.me/82231969083462\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Keretasewa\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>WHATSAPP KAMI&nbsp;</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"tel:+60148630141\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CALL KAMI</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"https://kuchingcarrental.github.io/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ENGLISH SITE</a>   ",
+          "text": "KAMI ADALAH PILIHAN TERBAIK ANDA DI KUCHING, SARAWAK<br>ANTARA PERKHIDMATAN KAMI<br><i><a href=\"page3.html\" target=\"_blank\"></a><a href=\"CARLIST.html\" target=\"_blank\">(</a><b><a href=\"CARLIST.html\" target=\"_blank\">KERETA SEWA PANDU SENDIRI)</a></b><b>&nbsp;</b><a href=\"page3.html\">(KERETA SEWA DENGAN PEMANDU PERIBADI</a>)<br>(PAKEJ PERLANCONGAN) <a href=\"page3.html#features1-2b\">(VAN DAN BUS SEWA/CATAR)</a></i><br><b>PERCUMA! </b>Penghantaran ke Airport Kuching , Terminal Bus and Hotel!",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"CARLIST.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>LIST KENDERAAN SEWA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"https://form.jotform.me/82231969083462\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Keretasewa\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>WHATSAPP KAMI&nbsp;</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"tel:+60148630141\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CALL KAMI</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"https://kuchingcarrental.github.io/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ENGLISH SITE</a>   ",
           "_tags": [
             "Theme"
           ],
@@ -1681,7 +1681,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/perodua-viva-576x32416.jpg",
+              "src": "@PROJECT_PATH@/assets/images/perodua-viva-576x32432.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1704,7 +1704,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/myvi2-480x48017.png",
+              "src": "@PROJECT_PATH@/assets/images/myvi2-480x48033.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1727,7 +1727,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/perodua-bezza-white-front-left-malaysia-600x40018.jpg",
+              "src": "@PROJECT_PATH@/assets/images/perodua-bezza-white-front-left-malaysia-600x40034.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1750,7 +1750,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mpv-perodua-alza-auto-7-seat-1509386752-5b2e53ba0-600x60019.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mpv-perodua-alza-auto-7-seat-1509386752-5b2e53ba0-600x60035.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1846,7 +1846,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/saga-480x48020.jpg",
+              "src": "@PROJECT_PATH@/assets/images/saga-480x48036.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1869,7 +1869,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/blogfarhanyusof-proton-exora-450x30021.jpg",
+              "src": "@PROJECT_PATH@/assets/images/blogfarhanyusof-proton-exora-450x30037.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1892,7 +1892,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vios-600x27622.png",
+              "src": "@PROJECT_PATH@/assets/images/vios-600x27638.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1915,7 +1915,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2011-toyota-camry-xle-v6-6-speed-at-sedan-angular-front-600x39823.png",
+              "src": "@PROJECT_PATH@/assets/images/2011-toyota-camry-xle-v6-6-speed-at-sedan-angular-front-600x39839.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2011,7 +2011,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/avanza11-600x27624.jpg",
+              "src": "@PROJECT_PATH@/assets/images/avanza11-600x27640.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2034,7 +2034,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/innova-480x48025.jpg",
+              "src": "@PROJECT_PATH@/assets/images/innova-480x48041.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2057,7 +2057,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-600x34826.jpg",
+              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-600x34842.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2080,7 +2080,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mitsubishi-l200-iv-restyling-2013-2015-pickup-interior-3-560x29027.png",
+              "src": "@PROJECT_PATH@/assets/images/mitsubishi-l200-iv-restyling-2013-2015-pickup-interior-3-560x29043.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2176,7 +2176,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vellfire-600x30028.jpg",
+              "src": "@PROJECT_PATH@/assets/images/vellfire-600x30044.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2199,7 +2199,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2015-mitsubishi-lancer-evo-x-final-concept-600x40029.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2015-mitsubishi-lancer-evo-x-final-concept-600x40045.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2222,7 +2222,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/alphard-600x30030.jpg",
+              "src": "@PROJECT_PATH@/assets/images/alphard-600x30046.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2245,7 +2245,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2015-honda-civic-si-sedan-si-with-navi-crystal-black-pearl-550x45031.png",
+              "src": "@PROJECT_PATH@/assets/images/2015-honda-civic-si-sedan-si-with-navi-crystal-black-pearl-550x45047.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
