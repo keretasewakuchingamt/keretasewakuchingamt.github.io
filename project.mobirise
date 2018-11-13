@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AMT MAIN SITE-Bahasa Melayu",
-    "currentPage": "index.html",
+    "currentPage": "CARLIST.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -14,7 +14,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.2",
     "uniqCompNum": 89,
-    "versionPublish": "4.8.1",
+    "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
@@ -518,8 +518,8 @@
             }
           },
           "title3": "TOYOTA VAN HIACE",
-          "caption3": "Automatic Transmission RM270<br>Maximum Passenger: 11<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Hiace%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BORANG TEMPAHAN ONLINE</a>",
+          "caption3": "Manual Transmission RM270<br>Maximum Passenger: 11<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Hiace%20(Manual).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BORANG TEMPAHAN ONLINE</a>",
           "media4": {
             "image": {
               "active": true,
