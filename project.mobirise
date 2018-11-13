@@ -1681,7 +1681,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/perodua-viva-576x32432.jpg",
+              "src": "@PROJECT_PATH@/assets/images/perodua-viva-576x32448.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1704,7 +1704,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/myvi2-480x48033.png",
+              "src": "@PROJECT_PATH@/assets/images/myvi2-480x48049.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1727,7 +1727,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/perodua-bezza-white-front-left-malaysia-600x40034.jpg",
+              "src": "@PROJECT_PATH@/assets/images/perodua-bezza-white-front-left-malaysia-600x40050.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1750,7 +1750,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mpv-perodua-alza-auto-7-seat-1509386752-5b2e53ba0-600x60035.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mpv-perodua-alza-auto-7-seat-1509386752-5b2e53ba0-600x60051.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1846,7 +1846,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/saga-480x48036.jpg",
+              "src": "@PROJECT_PATH@/assets/images/saga-480x48052.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1869,7 +1869,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/blogfarhanyusof-proton-exora-450x30037.jpg",
+              "src": "@PROJECT_PATH@/assets/images/blogfarhanyusof-proton-exora-450x30053.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1892,7 +1892,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vios-600x27638.png",
+              "src": "@PROJECT_PATH@/assets/images/vios-600x27654.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1915,7 +1915,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2011-toyota-camry-xle-v6-6-speed-at-sedan-angular-front-600x39839.png",
+              "src": "@PROJECT_PATH@/assets/images/2011-toyota-camry-xle-v6-6-speed-at-sedan-angular-front-600x39855.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2011,7 +2011,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/avanza11-600x27640.jpg",
+              "src": "@PROJECT_PATH@/assets/images/avanza11-600x27656.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2034,7 +2034,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/innova-480x48041.jpg",
+              "src": "@PROJECT_PATH@/assets/images/innova-480x48057.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2057,7 +2057,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-600x34842.jpg",
+              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-600x34858.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2075,12 +2075,12 @@
             }
           },
           "title3": "TOYOTA VAN HIACE",
-          "caption3": "Automatic Transmission RM270<br>Maximum Passenger: 11<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Hiace%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
+          "caption3": "Manual Transmission RM270<br>Maximum Passenger: 11<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Hiace%20Manual).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mitsubishi-l200-iv-restyling-2013-2015-pickup-interior-3-560x29043.png",
+              "src": "@PROJECT_PATH@/assets/images/mitsubishi-l200-iv-restyling-2013-2015-pickup-interior-3-560x29059.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2176,7 +2176,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vellfire-600x30044.jpg",
+              "src": "@PROJECT_PATH@/assets/images/vellfire-600x30060.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2199,7 +2199,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2015-mitsubishi-lancer-evo-x-final-concept-600x40045.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2015-mitsubishi-lancer-evo-x-final-concept-600x40061.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2222,7 +2222,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/alphard-600x30046.jpg",
+              "src": "@PROJECT_PATH@/assets/images/alphard-600x30062.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2245,7 +2245,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2015-honda-civic-si-sedan-si-with-navi-crystal-black-pearl-550x45047.png",
+              "src": "@PROJECT_PATH@/assets/images/2015-honda-civic-si-sedan-si-with-navi-crystal-black-pearl-550x45063.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
