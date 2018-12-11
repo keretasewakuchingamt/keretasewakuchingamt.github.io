@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "AMT MAIN SITE-Bahasa Melayu",
+    "name": "AMT MAIN SITE-Bahasa Melayu-Digi",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -21,7 +21,7 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "gdpr": "",
-    "siteUrl": "https://kuchingcarrental.github.io/page3.html",
+    "siteUrl": "https://kuchingcarrental.github.io",
     "sitemapSwitcherAuto": "on",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
@@ -143,7 +143,7 @@
           },
           "title1": "PERODUA VIVA",
           "caption1": "<p>Perday Price:</p><p>Automatic Transmission RM100</p>Manual Transmission RM90<br><br>Maximum Passenger: 5",
-          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Perodua%20Viva%20(AUTO/MANUAL).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TEMPAHAN PANTAS MELALUI WHATSAPP<br></a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BORANG TEMPAHAN ONLINE<br></a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Perodua%20Viva%20(AUTO/MANUAL).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TEMPAHAN PANTAS MELALUI WHATSAPP<br></a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BORANG TEMPAHAN ONLINE<br></a>",
           "media2": {
             "image": {
               "active": true,
@@ -166,7 +166,7 @@
           },
           "title2": "PERODUA MYVI",
           "caption2": "Automatic Transmission RM120<br>Maximum Passenger: 5<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Perodua%20Myvi%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BORANG TEMPAHAN ONLINE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Perodua%20Myvi%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BORANG TEMPAHAN ONLINE</a>",
           "media3": {
             "image": {
               "active": true,
@@ -189,7 +189,7 @@
           },
           "title3": "PERODUA BEZZA",
           "caption3": "Automatic Transmission RM140<br>Maximum Passenger: 5<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Perodua%20Bezza%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BORANG TEMPAHAN ONLINE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Perodua%20Bezza%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BORANG TEMPAHAN ONLINE</a>",
           "media4": {
             "image": {
               "active": true,
@@ -212,7 +212,7 @@
           },
           "title4": "PERODUA ALZA",
           "caption4": "Automatic Transmission RM180<br>Maximum Passenger: 7<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Perodua%20Alza%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BORANG TEMPAHAN ONLINE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Perodua%20Alza%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BORANG TEMPAHAN ONLINE</a>",
           "media5": {
             "image": {
               "active": true,
@@ -308,7 +308,7 @@
           },
           "title1": "PROTON SAGA",
           "caption1": "Automatic Transmission RM120<br>Maximum Passenger: 5<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Proton%20Saga%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BORANG TEMPAHAN ONLINE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Proton%20Saga%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BORANG TEMPAHAN ONLINE</a>",
           "media2": {
             "image": {
               "active": true,
@@ -331,7 +331,7 @@
           },
           "title2": "PROTON EXORA",
           "caption2": "Automatic Transmission RM190<br>Maximum Passenger: 7/8<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Proton%20Exora%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BORANG TEMPAHAN ONLINE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Proton%20Exora%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BORANG TEMPAHAN ONLINE</a>",
           "media3": {
             "image": {
               "active": true,
@@ -354,7 +354,7 @@
           },
           "title3": "TOYOYA VIOS",
           "caption3": "Automatic Transmission RM190<br>Maximum Passenger: 5<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Vios%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BORANG TEMPAHAN ONLINE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Toyota%20Vios%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BORANG TEMPAHAN ONLINE</a>",
           "media4": {
             "image": {
               "active": true,
@@ -377,7 +377,7 @@
           },
           "title4": "TOYOTA CAMRY",
           "caption4": "Automatic Transmission RM600<br>Maximum Passenger: 5<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Camry%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BORANG TEMPAHAN ONLINE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Toyota%20Camry%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BORANG TEMPAHAN ONLINE</a>",
           "media5": {
             "image": {
               "active": true,
@@ -473,7 +473,7 @@
           },
           "title1": "TOYOTA AVANZA",
           "caption1": "Automatic Transmission RM200<br>Maximum Passenger: 7<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Avanza%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BORANG TEMPAHAN ONLINE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Toyota%20Avanza%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BORANG TEMPAHAN ONLINE</a>",
           "media2": {
             "image": {
               "active": true,
@@ -496,7 +496,7 @@
           },
           "title2": "TOYOTA INNOVA",
           "caption2": "Automatic Transmission RM250<br>Maximum Passenger: 7/8<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Innova%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BORANG TEMPAHAN ONLINE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Toyota%20Innova%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BORANG TEMPAHAN ONLINE</a>",
           "media3": {
             "image": {
               "active": true,
@@ -519,7 +519,7 @@
           },
           "title3": "TOYOTA VAN HIACE",
           "caption3": "Manual Transmission RM270<br>Maximum Passenger: 11<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Hiace%20(Manual).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BORANG TEMPAHAN ONLINE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Toyota%20Hiace%20(Manual).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BORANG TEMPAHAN ONLINE</a>",
           "media4": {
             "image": {
               "active": true,
@@ -542,7 +542,7 @@
           },
           "title4": "4X4 MITSUBISHI TRITON",
           "caption4": "Automatic Transmission RM400<br>Maximum Passenger: 5<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Mitsubishi%20Triton%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BORANG TEMPAHAN ONLINE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Mitsubishi%20Triton%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BORANG TEMPAHAN ONLINE</a>",
           "media5": {
             "image": {
               "active": true,
@@ -638,7 +638,7 @@
           },
           "title1": "TOYOTA VELLFIRE",
           "caption1": "Automatic Transmission RM800<br>Maximum Passenger: 7<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Vellfire%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BORANG TEMPAHAN ONLINE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Toyota%20Vellfire%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BORANG TEMPAHAN ONLINE</a>",
           "media2": {
             "image": {
               "active": true,
@@ -661,7 +661,7 @@
           },
           "title2": "MITSUBISHI LANCER",
           "caption2": "Automatic Transmission RM380<br>Maximum Passenger: 5<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Mitsubishi%20Lancer%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BORANG TEMPAHAN ONLINE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Mitsubishi%20Lancer%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BORANG TEMPAHAN ONLINE</a>",
           "media3": {
             "image": {
               "active": true,
@@ -684,7 +684,7 @@
           },
           "title3": "TOYOTA ALPHARD",
           "caption3": "Automatic Transmission RM750<br>Maximum Passenger: 7<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Alphard%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BORANG TEMPAHAN ONLINE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Toyota%20Alphard%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BORANG TEMPAHAN ONLINE</a>",
           "media4": {
             "image": {
               "active": true,
@@ -707,7 +707,7 @@
           },
           "title4": "HONDA CIVIC",
           "caption4": "Automatic Transmission RM390<br>Maximum Passenger: 5<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Honda%20Civic2015%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BORANG TEMPAHAN ONLINE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Honda%20Civic2015%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BORANG TEMPAHAN ONLINE</a>",
           "media5": {
             "image": {
               "active": true,
@@ -803,7 +803,7 @@
           },
           "title1": "COASTER 22 SEAT",
           "caption1": "With Driver Option Only<br>Maximum Passenger: 22<br>*Price is base on Tentatif.<br>*Contact us for discussion on the price. :)",
-          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Coaster22Seat\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BORANG TEMPAHAN ONLINE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Coaster22Seat\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BORANG TEMPAHAN ONLINE</a>",
           "media2": {
             "image": {
               "active": true,
@@ -826,7 +826,7 @@
           },
           "title2": "COASTER 28 SEAT",
           "caption2": "With Driver Option Only\n<br>Maximum Passenger: 28&nbsp;<br>*Price is base on Tentatif.\n<br>*Contact us for discussion on the price. :)<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Coaster28Seat\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BORANG TEMPAHAN ONLINE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Coaster28Seat\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BORANG TEMPAHAN ONLINE</a>",
           "media3": {
             "image": {
               "active": true,
@@ -849,7 +849,7 @@
           },
           "title3": "BUS SEKOLAH",
           "caption3": "With Driver Option Only\n<br>Maximum Passenger: 40-44&nbsp;<br>*Price is base on Tentatif.\n<br>*Contact us for discussion on the price. :)<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%Bussekolah40Seat\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BORANG TEMPAHAN ONLINE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%Bussekolah40Seat\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BORANG TEMPAHAN ONLINE</a>",
           "media4": {
             "image": {
               "active": true,
@@ -872,7 +872,7 @@
           },
           "title4": "BUS PERSIARAN",
           "caption4": "With Driver Option Only\n<br>Maximum Passenger: 40-44<br>*Price is base on Tentatif.\n<br>*Contact us for discussion on the price. :)<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20BusPersiaran44Seat\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BORANG TEMPAHAN ONLINE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20BusPersiaran44Seat\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">TEMPAHAN PANTAS MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BORANG TEMPAHAN ONLINE</a>",
           "media5": {
             "image": {
               "active": true,
@@ -920,7 +920,7 @@
           "_anchor": "features1-2b"
         },
         {
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">KEMBALI KE LAMAN UTAMA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://form.jotform.me/82231969083462\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BORANG TEMPAHAN ONLINE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Kereta%20Sewa\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WHATSAPP KAMI SEKARANG</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">KEMBALI KE LAMAN UTAMA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://form.jotform.me/82231969083462\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BORANG TEMPAHAN ONLINE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Kereta%20Sewa\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WHATSAPP KAMI SEKARANG</a>",
           "_tags": [
             "Theme"
           ],
@@ -1045,8 +1045,8 @@
             }
           },
           "text1": "<strong>ALAMAT</strong><br>Kuching International Airport",
-          "text2": "<strong>HUBUNGI KAMI</strong><br>\nEmail: afdalmaju@gmail.com<br>\nPhone: <a href=\"tel:+60148630141\">+6 (014) 8630141</a><br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>PAUTAN SOSIAL</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li>Facebook Page :<a href=\"https://www.facebook.com/AMTsarawak\" target=\"_blank\">Kereta Sewa AMT</a></li><li>Instagram: <a href=\"https://www.instagram.com/afdalmajutransportation\" target=\"_blank\">afdalmajutransportation</a></li><li>Whatsapp : <a href=\"tel:+60148630141\">+6 (014 )8630141</a></li><li>Full Website: <a href=\"http://www.afdalmajutransportation.com/\">afdalmajutransportation.com</a></li></ul>",
+          "text2": "<strong>HUBUNGI KAMI</strong><br>\nEmail: afdalmaju@gmail.com<br>\nPhone: <a href=\"tel:+601131700037\">+6011 31700037</a><br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>PAUTAN SOSIAL</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li>Facebook Page :<a href=\"https://www.facebook.com/AMTsarawak\" target=\"_blank\">Kereta Sewa AMT</a></li><li>Instagram: <a href=\"https://www.instagram.com/afdalmajutransportation\" target=\"_blank\">afdalmajutransportation</a></li><li>Whatsapp : <a href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Kereta%20Sewa\" target=\"_blank\">+601131700037</a></li><li>Full Website: <a href=\"http://www.afdalmajutransportation.com/\">afdalmajutransportation.com</a></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -1261,8 +1261,8 @@
             }
           },
           "text1": "<strong>ALAMAT</strong><br>Kuching International Airport",
-          "text2": "<strong>HUBUNGI KAMI</strong><br>\nEmail: afdalmaju@gmail.com<br>\nPhone: <a href=\"tel:+60148630141\">+6 (014) 8630141</a><br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>PAUTAN SOSIAL</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li>Facebook Page :<a href=\"https://www.facebook.com/AMTsarawak\" target=\"_blank\">Kereta Sewa AMT</a></li><li>Instagram: <a href=\"https://www.instagram.com/afdalmajutransportation\" target=\"_blank\">afdalmajutransportation</a></li><li>Whatsapp : <a href=\"tel:+60148630141\">+6 (014 )8630141</a></li><li>Full Website: <a href=\"http://www.afdalmajutransportation.com/\">afdalmajutransportation.com</a></li></ul>",
+          "text2": "<strong>HUBUNGI KAMI</strong><br>\nEmail: afdalmaju@gmail.com<br>\nPhone: <a href=\"tel:+601131700037\">+6011 31700037</a><br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>PAUTAN SOSIAL</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li>Facebook Page :<a href=\"https://www.facebook.com/AMTsarawak\" target=\"_blank\">Kereta Sewa AMT</a></li><li>Instagram: <a href=\"https://www.instagram.com/afdalmajutransportation\" target=\"_blank\">afdalmajutransportation</a></li><li>Whatsapp : <a href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Kereta%20Sewa\" target=\"_blank\">+601131700037</a></li><li>Full Website: <a href=\"http://www.afdalmajutransportation.com/\">afdalmajutransportation.com</a></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -1375,7 +1375,7 @@
             "overlayOpacity": 0.2
           },
           "title": "TERM AND CONDITION",
-          "text": "\n<div>\n</div><div>GENERAL\n</div><div>\n</div><div>The Rental Agreement is made between X Car Rentals (Owner) and the client (Hirer) whereas:\n</div><div>- The Owner is carrying out the business of car rentals. &nbsp;<br></div><div>\n- The Owner has the ability to rent out motor vehicles of various models to its customers on a charge agreeable to both parties.&nbsp;</div><div>\n- The Hirer is desirous of renting one motor vehicle from the Owner subject to the terms and conditions hereinafter set forth.&nbsp;</div><div>\n- The Hirer only allowed to use the Car within KUCHING and KOTA SAMARAHAN area only. Hirer must obtain permission or Whatsapp for usage outside KUCHING and KOTA SAMARAHAN.&nbsp;</div><div>\n- If Hirer going to area such as passing or reaching SERIAN or BATU KITANG or BAU or BATANG RAMBUNGAN or ASAJAYA without permission, Owner will take over the car and security deposit will be void. &nbsp;</div><div>\n</div><div>\n</div><div>RATES &amp; PAYMENT TERMS \n</div><div>\n- The rental charges for the hire of the motor vehicle or its replacement will be paid in advance at the rate agreed upon signing of this contract.&nbsp;</div><div>\n- Number of days involved in the total price is subject to day of hire and day of return of the vehicle&nbsp;</div><div>\n- Should costs outside the owners control increase substantially to affect the price, the Owner will inform the Hirer in advance before adopting the new price.&nbsp;</div><div>\n- Hirer is obligated to pay a refundable security deposit upon arrival.&nbsp;</div><div>\n- Hirer for self drive is obligated to pay the whole contract amount before pick up / commencing contract.&nbsp;</div><div>\n- Hirer for self drive is obligated to bring passport, driver’s licence and a refundable security deposit upon arrival.&nbsp;</div><div>\n- All payments (cheque or cash) should be in favor of Syarikat Afdal Maju company or AFDAL MAJU ENTERPRISE.</div><div>\n</div><div>\n</div><div>ONLINE RESERVATION\n</div><div>\n- Online reservations can only be made through the website www.afdalmajutransportation.com or WHATSAPP by following and completing all three steps: pick your car type, choose date and place, leave your information.&nbsp;</div><div>\n- The minimal rental period is 1 day.&nbsp;</div><div>\n- All prices mentioned on the website or whatsapp are temporarily and indicative&nbsp;</div><div>\n- Both parties (Owner and Hirer) will agree on a final price after confirmation of the reservation is confirmed by Whatsapp or email.&nbsp;</div><div>\n- Hirer is free to cancel the reservation at any time until both parties agreed on the final price either by telephone, whatsapp, e-mail or meeting.&nbsp;</div><div>\n- AMT will not use contact information for purposes other than to provide a professional, personal and best quality car rental service.&nbsp;</div><div>\n</div><div>\n</div><div>DELIVERY &amp; PURPOSE OF HIRE\n</div><div>- The Owner will ensure before handing over possession and control of the motor vehicle to the Hirer that the same is in a fit and roadworthy condition for the intended use. Damages to the vehicle or loss of vehicle accessories will be done at the end of hire period, costs of which will be paid in full by the hirer.\n</div><div>- The Hirer will have the right to use the motor vehicle for lawful daily operations or activities including during weekends, public holidays and at night subject to observing necessary safety and security precautions for the motor vehicle (and the driver).\n</div><div>\n</div><div>\n</div><div>REPAIRS &amp; MAINTENANCE\n</div><div>- Any damage or loss occurring to the motor vehicle on account of non-compliance with the maintenance/service schedule or other cause attributable to negligence, recklessness, misuse, etc., not subject to insurance cover will be borne and made good by the Hirer.\n</div><div>\n</div><div>\n</div><div>PICK UP &amp; DROP OFF SERVICE\n</div><div>- Owner offers Hirer the service of pick ups &amp; drops off to and from different locations in and around Kuching City. Costs are variable and will be agreed upon during contact by Owner and Hirer after reservation and before finalizing the car rental contract.\n</div><div>- Hirer is always free to arrange own pick up &amp; drop off when this is not yet arranged in the contract.\n</div><div>- Hirer can change the location of pick up and drop off but no later than 24 hours before pick up/drop off date only by personal contact with an AMT agent either through telephone, Whatsapp, e-mail or meeting. Owner will then offer a new price on which both parties need to agree before executing the service. When parties cannot come to an agreement, the service is executed as stated in the contract\n</div><div>\n</div><div>- Hirer can cancel the pick up and/or drop off service no later than 24 hours before pick up/drop off date only by personal contact with an AMT agent either through telephone, Whatsapp, e-mail or meeting.\n</div><div>- Owner can cancel pick up and drop off service no later than 24 hours before arranged pick up / drop off date by informing Hirer by e-mail, Skype or telephone\n</div><div>- If Owner can not guarantee a safe pick up / drop off drive due to bad weather conditions or otherwise, Owner can cancel the service at any time by informing Hirer by e-mail, Whatsapp or telephone.\n</div><div>- If Owner or Hirer cancelled the pick up / drop iff service the costs will be refunded 30 days after fulfilling the contract.\n</div><div>\n</div><div>\n</div><div>AMENDING THE AGREEMENT\n</div><div>- This Agreement can be terminated by giving a notice in writing by either Party to the other.\n</div><div>- Failure to give such notice (under above) will entitle payment by the defaulting party of damages of rental as liquidated damages.\n</div><div>- Any variation of the rental Agreement will be in writing and signed by the parties. All telephone conversations affecting the hirer of the motorcar will be confirmed in writing or by an e-mail.\n</div><div>\n</div><div>\n</div><div>GOVERNING LAWS\n</div><div>\n</div><div>The rental Agreement will be subject to and governed by Malaysian laws.\n</div><div><br></div>",
+          "text": "\n<div>\n</div><div>GENERAL\n</div><div>\n</div><div>The Rental Agreement is made between AMT (Owner) and the client (Hirer) whereas:\n</div><div>- The Owner is carrying out the business of car rentals. &nbsp;<br></div><div>\n- The Owner has the ability to rent out motor vehicles of various models to its customers on a charge agreeable to both parties.&nbsp;</div><div>\n- The Hirer is desirous of renting one motor vehicle from the Owner subject to the terms and conditions hereinafter set forth.&nbsp;</div><div>\n- The Hirer only allowed to use the Car within KUCHING and KOTA SAMARAHAN area only. Hirer must obtain permission or Whatsapp for usage outside KUCHING and KOTA SAMARAHAN.&nbsp;</div><div>\n- If Hirer going to area such as passing or reaching SERIAN or BATU KITANG or BAU or BATANG RAMBUNGAN or ASAJAYA without permission, Owner will take over the car and security deposit will be void. &nbsp;</div><div>\n</div><div>\n</div><div>RATES &amp; PAYMENT TERMS \n</div><div>\n- The rental charges for the hire of the motor vehicle or its replacement will be paid in advance at the rate agreed upon signing of this contract.&nbsp;</div><div>\n- Number of days involved in the total price is subject to day of hire and day of return of the vehicle&nbsp;</div><div>\n- Should costs outside the owners control increase substantially to affect the price, the Owner will inform the Hirer in advance before adopting the new price.&nbsp;</div><div>\n- Hirer is obligated to pay a refundable security deposit upon arrival.&nbsp;</div><div>\n- Hirer for self drive is obligated to pay the whole contract amount before pick up / commencing contract.&nbsp;</div><div>\n- Hirer for self drive is obligated to bring passport, driver’s licence and a refundable security deposit upon arrival.&nbsp;</div><div>\n- All payments (cheque or cash) should be in favor of Syarikat Afdal Maju or AFDAL MAJU ENTERPRISE.</div><div>\n</div><div>\n</div><div>ONLINE RESERVATION\n</div><div>\n- Online reservations can only be made through this website or whatsapp(+601131700037) by following and completing all three steps: pick your car type, choose date and place, leave your information.&nbsp;</div><div>\n- The minimal rental period is 1 day.&nbsp;</div><div>\n- All prices mentioned on the website or whatsapp are temporarily and indicative&nbsp;</div><div>\n- Both parties (Owner and Hirer) will agree on a final price after confirmation of the reservation is confirmed by Whatsapp or email.&nbsp;</div><div>\n- Hirer is free to cancel the reservation at any time until both parties agreed on the final price either by telephone, whatsapp, e-mail or meeting.&nbsp;</div><div>\n- AMT will not use contact information for purposes other than to provide a professional, personal and best quality car rental service.&nbsp;</div><div>\n</div><div>\n</div><div>DELIVERY &amp; PURPOSE OF HIRE\n</div><div>- The Owner will ensure before handing over possession and control of the motor vehicle to the Hirer that the same is in a fit and roadworthy condition for the intended use. Damages to the vehicle or loss of vehicle accessories will be done at the end of hire period, costs of which will be paid in full by the hirer.\n</div><div>- The Hirer will have the right to use the motor vehicle for lawful daily operations or activities including during weekends, public holidays and at night subject to observing necessary safety and security precautions for the motor vehicle (and the driver).\n</div><div>\n</div><div>\n</div><div>REPAIRS &amp; MAINTENANCE\n</div><div>- Any damage or loss occurring to the motor vehicle on account of non-compliance with the maintenance/service schedule or other cause attributable to negligence, recklessness, misuse, etc., not subject to insurance cover will be borne and made good by the Hirer.\n</div><div>\n</div><div>\n</div><div>PICK UP &amp; DROP OFF SERVICE\n</div><div>- Owner offers Hirer the service of pick ups &amp; drops off to and from different locations in and around Kuching City. Costs are variable and will be agreed upon during contact by Owner and Hirer after reservation and before finalizing the car rental contract.\n</div><div>- Hirer is always free to arrange own pick up &amp; drop off when this is not yet arranged in the contract.\n</div><div>- Hirer can change the location of pick up and drop off but no later than 24 hours before pick up/drop off date only by personal contact with an AMT agent either through telephone, Whatsapp, e-mail or meeting. Owner will then offer a new price on which both parties need to agree before executing the service. When parties cannot come to an agreement, the service is executed as stated in the contract\n</div><div>\n</div><div>- Hirer can cancel the pick up and/or drop off service no later than 24 hours before pick up/drop off date only by personal contact with an AMT agent either through telephone, Whatsapp, e-mail or meeting.\n</div><div>- Owner can cancel pick up and drop off service no later than 24 hours before arranged pick up / drop off date by informing Hirer by e-mail, whatsapp or telephone call.</div><div>- If Owner can not guarantee a safe pick up / drop off drive due to bad weather conditions or otherwise, Owner can cancel the service at any time by informing Hirer by e-mail, Whatsapp or telephone.\n</div><div>- If Owner or Hirer cancelled the pick up / drop and service the costs will be refunded 30 days after fulfilling the contract.\n</div><div>\n</div><div>\n</div><div>AMENDING THE AGREEMENT\n</div><div>- This Agreement can be terminated by giving a notice in writing by either Party to the other.\n</div><div>- Failure to give such notice (under above) will entitle payment by the defaulting party of damages of rental as liquidated damages.\n</div><div>- Any variation of the rental Agreement will be in writing and signed by the parties. All telephone conversations affecting the hirer of the motorcar will be confirmed in writing or by an e-mail.\n</div><div>\n</div><div>\n</div><div>GOVERNING LAWS\n</div><div>\n</div><div>The rental Agreement will be subject to and governed by Malaysian laws.\n</div><div><br></div>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -1414,8 +1414,8 @@
             }
           },
           "text1": "<strong>ALAMAT</strong><br>Kuching International Airport",
-          "text2": "<strong>HUBUNGI KAMI</strong><br>\nEmail: afdalmaju@gmail.com<br>\nPhone: <a href=\"tel:+60148630141\">+6 (014) 8630141</a><br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>PAUTAN SOSIAL</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li>Facebook Page :<a href=\"https://www.facebook.com/AMTsarawak\" target=\"_blank\">Kereta Sewa AMT</a></li><li>Instagram: <a href=\"https://www.instagram.com/afdalmajutransportation\" target=\"_blank\">afdalmajutransportation</a></li><li>Whatsapp : <a href=\"tel:+60148630141\">+6 (014 )8630141</a></li><li>Full Website: <a href=\"http://www.afdalmajutransportation.com/\">afdalmajutransportation.com</a></li></ul>",
+          "text2": "<strong>HUBUNGI KAMI</strong><br>\nEmail: afdalmaju@gmail.com<br>\nPhone: <a href=\"tel:+601131700037\">+6011 31700037</a><br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>PAUTAN SOSIAL</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li>Facebook Page :<a href=\"https://www.facebook.com/AMTsarawak\" target=\"_blank\">Kereta Sewa AMT</a></li><li>Instagram: <a href=\"https://www.instagram.com/afdalmajutransportation\" target=\"_blank\">afdalmajutransportation</a></li><li>Whatsapp : <a href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Kereta%20Sewa\" target=\"_blank\">+601131700037</a></li><li>Full Website: <a href=\"http://www.afdalmajutransportation.com/\">afdalmajutransportation.com</a></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -1513,7 +1513,7 @@
           },
           "title": "SELAMAT DATANG KE KUCHING&nbsp;<br>Perkhidmatan Sewa Kenderaan. Kereta, Van dan Bus di Sarawak.",
           "text": "KAMI ADALAH PILIHAN TERBAIK ANDA DI KUCHING, SARAWAK<br>ANTARA PERKHIDMATAN KAMI<br><i><a href=\"page3.html\" target=\"_blank\"></a><a href=\"CARLIST.html\" target=\"_blank\">(</a><b><a href=\"CARLIST.html\" target=\"_blank\">KERETA SEWA PANDU SENDIRI)</a></b><b>&nbsp;</b><a href=\"page3.html\">(KERETA SEWA DENGAN PEMANDU PERIBADI</a>)<br>(PAKEJ PERLANCONGAN) <a href=\"page3.html#features1-2b\">(VAN DAN BUS SEWA/CATAR)</a></i><br><b>PERCUMA! </b>Penghantaran ke Airport Kuching , Terminal Bus and Hotel!",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"CARLIST.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>LIST KENDERAAN SEWA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"https://form.jotform.me/82231969083462\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Keretasewa\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>WHATSAPP KAMI&nbsp;</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"tel:+60148630141\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CALL KAMI</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"https://kuchingcarrental.github.io/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ENGLISH SITE</a>   ",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"CARLIST.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>LIST KENDERAAN SEWA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"https://form.jotform.me/82231969083462\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Keretasewa\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>WHATSAPP KAMI&nbsp;</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"tel:+601131700037\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CALL KAMI</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"https://kuchingcarrental.github.io/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ENGLISH SITE</a>   ",
           "_tags": [
             "Theme"
           ],
@@ -1682,7 +1682,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/perodua-viva-576x32464.jpg",
+              "src": "@PROJECT_PATH@/assets/images/perodua-viva-576x3240.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1701,11 +1701,11 @@
           },
           "title1": "PERODUA VIVA",
           "caption1": "<p>HARGA SEHARI:</p><p>Automatic Transmission RM100</p>Manual Transmission RM90<br><br>Maximum Passenger: 5",
-          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Perodua%20Viva%20(AUTO/MANUAL).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP<br></a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE<br></a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Perodua%20Viva%20(AUTO/MANUAL).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP<br></a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BOOK NOW<br></a>",
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/myvi2-480x48065.png",
+              "src": "@PROJECT_PATH@/assets/images/myvi2-480x4801.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1724,11 +1724,11 @@
           },
           "title2": "PERODUA MYVI",
           "caption2": "Automatic Transmission RM120<br>Maximum Passenger: 5<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Perodua%20Myvi%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Perodua%20Myvi%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BOOK NOW</a>",
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/perodua-bezza-white-front-left-malaysia-600x40066.jpg",
+              "src": "@PROJECT_PATH@/assets/images/perodua-bezza-white-front-left-malaysia-600x4002.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1747,11 +1747,11 @@
           },
           "title3": "PERODUA BEZZA",
           "caption3": "Automatic Transmission RM140<br>Maximum Passenger: 5<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Perodua%20Bezza%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Perodua%20Bezza%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BOOK NOW</a>",
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mpv-perodua-alza-auto-7-seat-1509386752-5b2e53ba0-600x60067.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mpv-perodua-alza-auto-7-seat-1509386752-5b2e53ba0-600x6003.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1770,7 +1770,7 @@
           },
           "title4": "PERODUA ALZA",
           "caption4": "Automatic Transmission RM180<br>Maximum Passenger: 7<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Perodua%20Alza%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Perodua%20Alza%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BOOK NOW</a>",
           "media5": {
             "image": {
               "active": true,
@@ -1847,7 +1847,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/saga-480x48068.jpg",
+              "src": "@PROJECT_PATH@/assets/images/saga-480x4804.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1866,11 +1866,11 @@
           },
           "title1": "PROTON SAGA",
           "caption1": "Automatic Transmission RM120<br>Maximum Passenger: 5<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Proton%20Saga%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Proton%20Saga%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BOOK NOW</a>",
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/blogfarhanyusof-proton-exora-450x30069.jpg",
+              "src": "@PROJECT_PATH@/assets/images/blogfarhanyusof-proton-exora-450x3005.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1889,11 +1889,11 @@
           },
           "title2": "PROTON EXORA",
           "caption2": "Automatic Transmission RM190<br>Maximum Passenger: 7/8<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Proton%20Exora%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Proton%20Exora%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BOOK NOW</a>",
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vios-600x27670.png",
+              "src": "@PROJECT_PATH@/assets/images/vios-600x2766.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1912,11 +1912,11 @@
           },
           "title3": "TOYOYA VIOS",
           "caption3": "Automatic Transmission RM190<br>Maximum Passenger: 5<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Vios%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Toyota%20Vios%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BOOK NOW</a>",
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2011-toyota-camry-xle-v6-6-speed-at-sedan-angular-front-600x39871.png",
+              "src": "@PROJECT_PATH@/assets/images/2011-toyota-camry-xle-v6-6-speed-at-sedan-angular-front-600x3987.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1935,7 +1935,7 @@
           },
           "title4": "TOYOTA CAMRY",
           "caption4": "Automatic Transmission RM600<br>Maximum Passenger: 5<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Camry%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Toyota%20Camry%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BOOK NOW</a>",
           "media5": {
             "image": {
               "active": true,
@@ -2012,7 +2012,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/avanza11-600x27672.jpg",
+              "src": "@PROJECT_PATH@/assets/images/avanza11-600x2768.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2031,11 +2031,11 @@
           },
           "title1": "TOYOTA AVANZA",
           "caption1": "Automatic Transmission RM200<br>Maximum Passenger: 7<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Avanza%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Toyota%20Avanza%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BOOK NOW</a>",
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/innova-480x48073.jpg",
+              "src": "@PROJECT_PATH@/assets/images/innova-480x4809.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2054,11 +2054,11 @@
           },
           "title2": "TOYOTA INNOVA",
           "caption2": "Automatic Transmission RM250<br>Maximum Passenger: 7/8<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Innova%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Toyota%20Innova%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BOOK NOW</a>",
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-600x34874.jpg",
+              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-600x34810.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2077,11 +2077,11 @@
           },
           "title3": "TOYOTA VAN HIACE",
           "caption3": "Manual Transmission RM270<br>Maximum Passenger: 11<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Hiace%20Manual).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Toyota%20Hiace%20Manual).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BOOK NOW</a>",
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mitsubishi-l200-iv-restyling-2013-2015-pickup-interior-3-560x29075.png",
+              "src": "@PROJECT_PATH@/assets/images/mitsubishi-l200-iv-restyling-2013-2015-pickup-interior-3-560x29011.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2100,7 +2100,7 @@
           },
           "title4": "4X4 MITSUBISHI TRITON",
           "caption4": "Automatic Transmission RM400<br>Maximum Passenger: 5<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Mitsubishi%20Triton%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Mitsubishi%20Triton%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BOOK NOW</a>",
           "media5": {
             "image": {
               "active": true,
@@ -2177,7 +2177,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vellfire-600x30076.jpg",
+              "src": "@PROJECT_PATH@/assets/images/vellfire-600x30012.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2196,11 +2196,11 @@
           },
           "title1": "TOYOTA VELLFIRE",
           "caption1": "Automatic Transmission RM800<br>Maximum Passenger: 7<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Vellfire%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Toyota%20Vellfire%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BOOK NOW</a>",
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2015-mitsubishi-lancer-evo-x-final-concept-600x40077.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2015-mitsubishi-lancer-evo-x-final-concept-600x40013.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2219,11 +2219,11 @@
           },
           "title2": "MITSUBISHI LANCER",
           "caption2": "Automatic Transmission RM380<br>Maximum Passenger: 5<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Mitsubishi%20Lancer%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Mitsubishi%20Lancer%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BOOK NOW</a>",
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/alphard-600x30078.jpg",
+              "src": "@PROJECT_PATH@/assets/images/alphard-600x30014.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2242,11 +2242,11 @@
           },
           "title3": "TOYOTA ALPHARD",
           "caption3": "Automatic Transmission RM750<br>Maximum Passenger: 7<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Alphard%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Toyota%20Alphard%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BOOK NOW</a>",
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2015-honda-civic-si-sedan-si-with-navi-crystal-black-pearl-550x45079.png",
+              "src": "@PROJECT_PATH@/assets/images/2015-honda-civic-si-sedan-si-with-navi-crystal-black-pearl-550x45015.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2265,7 +2265,7 @@
           },
           "title4": "HONDA CIVIC",
           "caption4": "Automatic Transmission RM390<br>Maximum Passenger: 5<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Honda%20Civic2015%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BORANG TEMPAHAN ONLINE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Honda%20Civic2015%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>TEMPAHAN MELALUI WHATSAPP</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BOOK NOW</a>",
           "media5": {
             "image": {
               "active": true,
@@ -2313,7 +2313,7 @@
           "_anchor": "features1-1n"
         },
         {
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"page3.html#features1-2b\" data-toolbar=\"-mbrBtnMove\">COASTER DAN BAS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">KEMBALI KE LAMAN UTAMA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://form.jotform.me/82231969083462\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BORANG TEMPAHAN ONLINE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Kereta%20Sewa\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WHATSAPP KAMI SEKARANG</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"page3.html#features1-2b\" data-toolbar=\"-mbrBtnMove\">COASTER DAN BAS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">KEMBALI KE LAMAN UTAMA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://form.jotform.me/82231969083462\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BORANG TEMPAHAN ONLINE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Kereta%20Sewa\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WHATSAPP KAMI SEKARANG</a>",
           "_tags": [
             "Theme"
           ],
@@ -2435,8 +2435,8 @@
             }
           },
           "text1": "<strong>ALAMAT</strong><br>Kuching International Airport",
-          "text2": "<strong>HUBUNGI KAMI</strong><br>\nEmail: afdalmaju@gmail.com<br>\nPhone: <a href=\"tel:+60148630141\">+6 (014) 8630141</a><br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>PAUTAN SOSIAL</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li>Facebook Page :<a href=\"https://www.facebook.com/AMTsarawak\" target=\"_blank\">Kereta Sewa AMT</a></li><li>Instagram: <a href=\"https://www.instagram.com/afdalmajutransportation\" target=\"_blank\">afdalmajutransportation</a></li><li>Whatsapp : <a href=\"tel:+60148630141\">+6 (014 )8630141</a></li><li>Full Website: <a href=\"http://www.afdalmajutransportation.com/\">afdalmajutransportation.com</a></li></ul>",
+          "text2": "<strong>HUBUNGI KAMI</strong><br>\nEmail: afdalmaju@gmail.com<br>\nPhone: <a href=\"tel:+601131700037\">+6011 31700037</a><br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>PAUTAN SOSIAL</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li>Facebook Page :<a href=\"https://www.facebook.com/AMTsarawak\" target=\"_blank\">Kereta Sewa AMT</a></li><li>Instagram: <a href=\"https://www.instagram.com/afdalmajutransportation\" target=\"_blank\">afdalmajutransportation</a></li><li>Whatsapp : <a href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=Saya%20ingin%20menempah%20Kereta%20Sewa\" target=\"_blank\">+601131700037</a></li><li>Full Website: <a href=\"http://www.afdalmajutransportation.com/\">afdalmajutransportation.com</a></li></ul>",
           "_tags": [
             "Theme"
           ],
