@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.2",
-    "uniqCompNum": 89,
+    "uniqCompNum": 90,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-128x74-1.png",
@@ -1154,6 +1154,89 @@
         },
         {
           "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/bako-natoinal-park-610x407.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bako-natoinal-park-610x407-610x407.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Taman Negara Bako",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/hutan-simpan-semenggoh-610x452.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hutan-simpan-semenggoh-610x452-610x452.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Hutan Simpan Semenggoh",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/fairy-cave-bau-610x405.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fairy-cave-bau-610x405-610x405.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Fairy Cave &amp; Wind Cave",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/pantai-damai-sarawak-610x405.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pantai-damai-sarawak-610x405-610x405.jpg",
+                "alt": "",
+                "title": "",
+                "caption": " Pantai Damai yang indah",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/jong-crocodile-farm-610x407.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jong-crocodile-farm-610x407-610x407.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Taman Buaya Jong",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/rumah-panjang-ann-rais-610x419.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rumah-panjang-ann-rais-610x419-610x419.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Rumah Panjang Annah Rais Bidayuh",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sarawak-cultural-village-610x407.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sarawak-cultural-village-610x407-610x407.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Taman Budaya Sarawak",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/pasar-serikin-610x343.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pasar-serikin-610x343-610x343.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Pasar Serikin",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-2h"
+        },
+        {
+          "_params": {
             "showHeader": true,
             "showSubheader": true,
             "showImages": true,
@@ -1182,7 +1265,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/perodua-viva-576x32416.jpg",
+              "src": "@PROJECT_PATH@/assets/images/perodua-viva-576x3240.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1205,7 +1288,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/myvi2-480x48017.png",
+              "src": "@PROJECT_PATH@/assets/images/myvi2-480x4801.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1228,7 +1311,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/perodua-bezza-white-front-left-malaysia-600x40018.jpg",
+              "src": "@PROJECT_PATH@/assets/images/perodua-bezza-white-front-left-malaysia-600x4002.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1251,7 +1334,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mpv-perodua-alza-auto-7-seat-1509386752-5b2e53ba0-600x60019.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mpv-perodua-alza-auto-7-seat-1509386752-5b2e53ba0-600x6003.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1347,7 +1430,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/saga-480x48020.jpg",
+              "src": "@PROJECT_PATH@/assets/images/saga-480x4804.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1370,7 +1453,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/blogfarhanyusof-proton-exora-450x30021.jpg",
+              "src": "@PROJECT_PATH@/assets/images/blogfarhanyusof-proton-exora-450x3005.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1393,7 +1476,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vios-600x27622.png",
+              "src": "@PROJECT_PATH@/assets/images/vios-600x2766.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1416,7 +1499,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2011-toyota-camry-xle-v6-6-speed-at-sedan-angular-front-600x39823.png",
+              "src": "@PROJECT_PATH@/assets/images/2011-toyota-camry-xle-v6-6-speed-at-sedan-angular-front-600x3987.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1512,7 +1595,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/avanza11-600x27624.jpg",
+              "src": "@PROJECT_PATH@/assets/images/avanza11-600x2768.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1535,7 +1618,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/innova-480x48025.jpg",
+              "src": "@PROJECT_PATH@/assets/images/innova-480x4809.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1558,7 +1641,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-600x34826.jpg",
+              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-600x34810.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1581,7 +1664,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mitsubishi-l200-iv-restyling-2013-2015-pickup-interior-3-560x29027.png",
+              "src": "@PROJECT_PATH@/assets/images/mitsubishi-l200-iv-restyling-2013-2015-pickup-interior-3-560x29011.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1677,7 +1760,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vellfire-600x30028.jpg",
+              "src": "@PROJECT_PATH@/assets/images/vellfire-600x30012.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1700,7 +1783,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2015-mitsubishi-lancer-evo-x-final-concept-600x40029.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2015-mitsubishi-lancer-evo-x-final-concept-600x40013.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1723,7 +1806,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/alphard-600x30030.jpg",
+              "src": "@PROJECT_PATH@/assets/images/alphard-600x30014.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1746,7 +1829,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2015-honda-civic-si-sedan-si-with-navi-crystal-black-pearl-550x45031.png",
+              "src": "@PROJECT_PATH@/assets/images/2015-honda-civic-si-sedan-si-with-navi-crystal-black-pearl-550x45015.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
